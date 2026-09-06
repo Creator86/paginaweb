@@ -1,0 +1,110 @@
+:root {
+  --wf-color-primary: #2563eb;
+  --wf-color-primary-hover: #1d4ed8;
+  --wf-color-secondary: #475569;
+  --wf-color-background: #ffffff;
+  --wf-color-surface: #f8fafc;
+  --wf-color-text: #0f172a;
+  --wf-color-text-muted: #64748b;
+  --wf-color-border: #e2e8f0;
+  --wf-color-success: #16a34a;
+  --wf-color-warning: #d97706;
+  --wf-color-error: #dc2626;
+  --wf-color-info: #0891b2;
+  --wf-font-family-sans: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --wf-font-family-serif: Georgia, Cambria, "Times New Roman", Times, serif;
+  --wf-font-family-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  --wf-font-size-base: 16px;
+  --wf-line-height-normal: 1.5;
+  --wf-line-height-tight: 1.25;
+  --wf-font-size-xs: 12px;
+  --wf-font-size-sm: 14px;
+  --wf-font-size-lg: 18px;
+  --wf-font-size-xl: 20px;
+  --wf-font-size-2xl: 24px;
+  --wf-font-size-3xl: 30px;
+  --wf-font-size-4xl: 36px;
+  --wf-font-size-5xl: 48px;
+  --wf-font-size-6xl: 60px;
+  --wf-font-size-7xl: 72px;
+  --wf-font-size-8xl: 96px;
+  --wf-spacing-unit: 4px;
+  --wf-spacing-0: 0px;
+  --wf-spacing-1: 4px;
+  --wf-spacing-2: 8px;
+  --wf-spacing-3: 12px;
+  --wf-spacing-4: 16px;
+  --wf-spacing-5: 20px;
+  --wf-spacing-6: 24px;
+  --wf-spacing-8: 32px;
+  --wf-spacing-10: 40px;
+  --wf-spacing-12: 48px;
+  --wf-spacing-16: 64px;
+  --wf-spacing-20: 80px;
+  --wf-spacing-24: 96px;
+  --wf-spacing-32: 128px;
+  --wf-spacing-40: 160px;
+  --wf-spacing-48: 192px;
+  --wf-spacing-56: 224px;
+  --wf-spacing-64: 256px;
+  --wf-radius-none: 0px;
+  --wf-radius-sm: 4px;
+  --wf-radius-md: 8px;
+  --wf-radius-lg: 12px;
+  --wf-radius-full: 9999px;
+  --wf-shadow-none: none;
+  --wf-shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+  --wf-shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+  --wf-shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+  --wf-shadow-xl: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
+  --wf-layer-base: 0;
+  --wf-layer-sticky: 100;
+  --wf-layer-dropdown: 200;
+  --wf-layer-popover: 300;
+  --wf-layer-tooltip: 400;
+  --wf-layer-drawer: 500;
+  --wf-layer-modal: 600;
+  --wf-layer-critical: 1000;
+}
+
+/* Website Factory Canonical CSS Reset */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: var(--wf-font-size-base, 16px);
+  line-height: var(--wf-line-height-normal, 1.5);
+  font-family: var(--wf-font-family-sans, system-ui, sans-serif);
+  color: var(--wf-color-text, #0f172a);
+  background-color: var(--wf-color-background, #ffffff);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+img, picture, video, canvas, svg {
+  display: block;
+  max-width: 100%;
+}
+
+input, button, textarea, select {
+  font: inherit;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+@keyframes wf-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}

@@ -1,0 +1,93 @@
+{
+  "generator": "Modular Website Factory Static Exporter",
+  "version": "1.0.0",
+  "exportedAt": "2026-09-06T00:07:29.515Z",
+  "fileCount": 17,
+  "files": [
+    {
+      "path": "css/theme.css",
+      "size": 3003,
+      "isBinary": false
+    },
+    {
+      "path": "index.html",
+      "size": 41074,
+      "isBinary": false
+    },
+    {
+      "path": "overview/index.html",
+      "size": 16592,
+      "isBinary": false
+    },
+    {
+      "path": "pricing/index.html",
+      "size": 22021,
+      "isBinary": false
+    },
+    {
+      "path": "about/index.html",
+      "size": 16566,
+      "isBinary": false
+    },
+    {
+      "path": "docs/index.html",
+      "size": 20010,
+      "isBinary": false
+    },
+    {
+      "path": "api/index.html",
+      "size": 16515,
+      "isBinary": false
+    },
+    {
+      "path": "community/index.html",
+      "size": 14954,
+      "isBinary": false
+    },
+    {
+      "path": "contact/index.html",
+      "size": 11159,
+      "isBinary": false
+    },
+    {
+      "path": "privacy/index.html",
+      "size": 14866,
+      "isBinary": false
+    },
+    {
+      "path": "terms/index.html",
+      "size": 14789,
+      "isBinary": false
+    },
+    {
+      "path": "embudo/index.html",
+      "size": 12915,
+      "isBinary": false
+    },
+    {
+      "path": "gracias/index.html",
+      "size": 11082,
+      "isBinary": false
+    },
+    {
+      "path": ".nojekyll",
+      "size": 0,
+      "isBinary": false
+    },
+    {
+      "path": "404.html",
+      "size": 1557,
+      "isBinary": false
+    },
+    {
+      "path": "README.md",
+      "size": 1204,
+      "isBinary": false
+    },
+    {
+      "path": "project.json",
+      "size": 86912,
+      "isBinary": false
+    }
+  ]
+}
