@@ -1,4 +1,4 @@
-name: Automated Email Remarketing
+name: Sync Leads to MailerLite
 
 on:
   schedule:
@@ -6,11 +6,11 @@ on:
   workflow_dispatch:
 
 jobs:
-  send-emails:
+  sync-leads:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Descargar Código del Repositorio
+      - name: Descargar Codigo del Repositorio
         uses: actions/checkout@v4
 
       - name: Configurar Node.js
@@ -18,12 +18,10 @@ jobs:
         with:
           node-version: 20
 
-      - name: Ejecutar Motor de Remarketing
+      - name: Sincronizar leads Supabase a MailerLite
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
-          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
-          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
-          SENDER_NAME: ${{ secrets.SENDER_NAME }}
-          OFFER_LINK: ${{ secrets.OFFER_LINK }}
+          MAILERLITE_API_KEY: ${{ secrets.MAILERLITE_API_KEY }}
+          MAILERLITE_GROUP_ID: ${{ secrets.MAILERLITE_GROUP_ID }}
         run: node scripts/send-remarketing.mjs
