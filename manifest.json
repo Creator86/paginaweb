@@ -1,7 +1,7 @@
 {
   "generator": "Modular Website Factory Static Exporter",
   "version": "1.0.0",
-  "exportedAt": "2026-09-06T02:27:17.301Z",
+  "exportedAt": "2026-09-06T02:42:53.940Z",
   "fileCount": 19,
   "files": [
     {
@@ -11,7 +11,7 @@
     },
     {
       "path": "index.html",
-      "size": 22717,
+      "size": 26355,
       "isBinary": false
     },
     {
@@ -91,12 +91,12 @@
     },
     {
       "path": "scripts/send-remarketing.mjs",
-      "size": 5698,
+      "size": 5846,
       "isBinary": false
     },
     {
       "path": "project.json",
-      "size": 86183,
+      "size": 86395,
       "isBinary": false
     }
   ]

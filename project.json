@@ -85,7 +85,7 @@
       },
       "pages": [
         {
-          "id": "pag_mtp6v02j6i3ecpafd",
+          "id": "pag_mtp6v02jvargloat4",
           "name": "Home",
           "route": "/",
           "seo": {
@@ -94,7 +94,7 @@
           },
           "sections": [
             {
-              "id": "sec_mtp6v02j90kp39tnu",
+              "id": "sec_mtp6v02jb1itftt6j",
               "name": "Home Structure",
               "layout": {
                 "containerWidth": "full",
@@ -102,7 +102,7 @@
               },
               "blocks": [
                 {
-                  "id": "blk_mtp6v02jpvg6bu5q5",
+                  "id": "blk_mtp6v02j16j4cvzq4",
                   "type": "header",
                   "version": "1.0.0",
                   "props": {
@@ -146,7 +146,7 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp6v02jpra3ge1oh",
+                  "id": "blk_mtp6v02j2crwcahou",
                   "type": "banner",
                   "version": "1.0.0",
                   "props": {
@@ -160,7 +160,7 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp6v02j1lmievj6w",
+                  "id": "blk_mtp6v02j7n5x13omm",
                   "type": "hero",
                   "version": "1.0.0",
                   "props": {
@@ -176,7 +176,7 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp6v02j7pte06g8n",
+                  "id": "blk_mtp6v02jrje7gtzby",
                   "type": "features",
                   "version": "1.0.0",
                   "props": {
@@ -206,17 +206,18 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp6v02jvm15n8085",
-                  "type": "testimonials",
+                  "id": "blk_mtp78d4uqh8t48aoc",
+                  "type": "funnel",
                   "version": "1.0.0",
                   "props": {
-                    "sectionTitle": "Lo que Dicen Nuestros Clientes Corporativos",
-                    "sectionSubtitle": "Testimonios reales de directores de tecnología y líderes empresariales."
+                    "supabaseUrl": "https://fwlpggmavtwmqwlbglzb.supabase.co",
+                    "supabaseAnonKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZ3bHBnZ21hdnR3bXF3bGJnbHpiIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc4ODY0Mzg3NywiZXhwIjoyMTA0MjE5ODc3fQ._AkYrvuLeYyq-kc2kYBtRp7P22G4XXbWKT_oeWYdjq4",
+                    "recipientEmail": "<anything>@eokiruekar.resend.app"
                   },
                   "components": []
                 },
                 {
-                  "id": "blk_mtp6v02j3rsz3q72o",
+                  "id": "blk_mtp6v02jq4d09o22p",
                   "type": "footer",
                   "version": "1.0.0",
                   "props": {
@@ -2279,8 +2280,8 @@
   ],
   "assets": [],
   "metadata": {
-    "createdAt": "2026-09-06T02:27:17.298Z",
-    "updatedAt": "2026-09-06T02:27:17.298Z",
+    "createdAt": "2026-09-06T02:42:53.938Z",
+    "updatedAt": "2026-09-06T02:42:53.938Z",
     "description": "Exported website source bundle"
   }
 }

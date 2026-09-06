@@ -14,12 +14,12 @@
 import process from 'node:process';
 
 const SUPABASE_URL   = (process.env.SUPABASE_URL   || "https://fwlpggmavtwmqwlbglzb.supabase.co").replace(/\/+$/, '');
-const SUPABASE_KEY   = process.env.SUPABASE_KEY    || "sb_publishable_5BNqcwnpX3-cC1__G162AQ_pHSnG38a";
+const SUPABASE_KEY   = process.env.SUPABASE_KEY    || "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZ3bHBnZ21hdnR3bXF3bGJnbHpiIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc4ODY0Mzg3NywiZXhwIjoyMTA0MjE5ODc3fQ._AkYrvuLeYyq-kc2kYBtRp7P22G4XXbWKT_oeWYdjq4";
 const RESEND_API_KEY = process.env.RESEND_API_KEY;
 const SENDER_EMAIL   = process.env.SENDER_EMAIL    || 'onboarding@resend.dev';
 const SENDER_NAME    = process.env.SENDER_NAME     || 'NexusFlow Production Site';
 const OFFER_LINK     = process.env.OFFER_LINK      || "https://tudominio.com/oferta";
-const FREEBIE_URL    = "https://drive.google.com/";
+const FREEBIE_URL    = "";
 const SUPABASE_TABLE = "funnel_leads";
 
 const STEPS = [
