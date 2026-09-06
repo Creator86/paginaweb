@@ -85,7 +85,7 @@
       },
       "pages": [
         {
-          "id": "pag_mtp1uotkhero1t59m",
+          "id": "pag_mtp5swykuxe0pjbxl",
           "name": "Home",
           "route": "/",
           "seo": {
@@ -94,7 +94,7 @@
           },
           "sections": [
             {
-              "id": "sec_mtp1uotkgqhicjajn",
+              "id": "sec_mtp5swyk1x549zlkn",
               "name": "Landing Flow",
               "layout": {
                 "containerWidth": "full",
@@ -102,7 +102,7 @@
               },
               "blocks": [
                 {
-                  "id": "blk_mtp1uotkdkn8rgy2d",
+                  "id": "blk_mtp5swykvjoacvo0a",
                   "type": "banner",
                   "version": "1.0.0",
                   "props": {
@@ -116,7 +116,7 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp1uotka0x4rmirt",
+                  "id": "blk_mtp5swyk0wm6ltpsn",
                   "type": "header",
                   "version": "1.0.0",
                   "props": {
@@ -160,7 +160,7 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp1uotkd56a4unag",
+                  "id": "blk_mtp5swykklmedm8fo",
                   "type": "hero",
                   "version": "1.0.0",
                   "props": {
@@ -176,7 +176,7 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp1uotk34gf457hc",
+                  "id": "blk_mtp5swykwygt9te38",
                   "type": "features",
                   "version": "1.0.0",
                   "props": {
@@ -206,7 +206,7 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp1uotk61d9z44w7",
+                  "id": "blk_mtp5swykycguczb1e",
                   "type": "testimonials",
                   "version": "1.0.0",
                   "props": {
@@ -216,7 +216,7 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp1uotkvsqm8wc0z",
+                  "id": "blk_mtp5swyk2psvskcb8",
                   "type": "pricing",
                   "version": "1.0.0",
                   "props": {
@@ -226,7 +226,7 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp1uotkhp95vy950",
+                  "id": "blk_mtp5swyk605wao86g",
                   "type": "faq",
                   "version": "1.0.0",
                   "props": {
@@ -236,17 +236,19 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp1uvswmqkw1has0",
+                  "id": "blk_mtp5uipda5gjbpb3l",
                   "type": "funnel",
                   "version": "1.0.0",
                   "props": {
-                    "supabaseUrl": "globe@globenthia.com",
-                    "supabaseAnonKey": "123"
+                    "supabaseUrl": "https://fwlpggmavtwmqwlbglzb.supabase.co",
+                    "supabaseAnonKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZ3bHBnZ21hdnR3bXF3bGJnbHpiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODg2NDM4NzcsImV4cCI6MjEwNDIxOTg3N30.1D2jnC8Ne6_QW0YyebAGECMT44abcGWdFmz1gcpYG1g",
+                    "thankYouPageRoute": "/gracias",
+                    "recipientEmail": "@eokiruekar.resend.app"
                   },
                   "components": []
                 },
                 {
-                  "id": "blk_mtp1uotle16m4ivu4",
+                  "id": "blk_mtp5swykfxk0ww6el",
                   "type": "footer",
                   "version": "1.0.0",
                   "props": {
@@ -321,7 +323,7 @@
           ]
         },
         {
-          "id": "pag_mtp1uotl49ca6pmtw",
+          "id": "pag_mtp5swyklw6s9ighk",
           "name": "Overview",
           "route": "/overview",
           "seo": {
@@ -330,7 +332,7 @@
           },
           "sections": [
             {
-              "id": "sec_mtp1uotlk4bxlu2lu",
+              "id": "sec_mtp5swykauzchf4we",
               "name": "Overview Flow",
               "layout": {
                 "containerWidth": "full",
@@ -338,7 +340,7 @@
               },
               "blocks": [
                 {
-                  "id": "blk_mtp1uotllefjicmsl",
+                  "id": "blk_mtp5swykgjl2ljlf1",
                   "type": "header",
                   "version": "1.0.0",
                   "props": {
@@ -382,7 +384,7 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp1uotl718zo67q6",
+                  "id": "blk_mtp5swyka3irm2h5v",
                   "type": "hero",
                   "version": "1.0.0",
                   "props": {
@@ -398,7 +400,7 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp1uotlugnq3odhq",
+                  "id": "blk_mtp5swyk4g9xgtnxg",
                   "type": "features",
                   "version": "1.0.0",
                   "props": {
@@ -428,7 +430,7 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp1uotl54zs9w8qb",
+                  "id": "blk_mtp5swykmhl2k4by6",
                   "type": "footer",
                   "version": "1.0.0",
                   "props": {
@@ -503,7 +505,7 @@
           ]
         },
         {
-          "id": "pag_mtp1uotlu8ulc3ee1",
+          "id": "pag_mtp5swykk8h99pjpy",
           "name": "Precios",
           "route": "/pricing",
           "seo": {
@@ -512,7 +514,7 @@
           },
           "sections": [
             {
-              "id": "sec_mtp1uotl4jd2wa8ip",
+              "id": "sec_mtp5swykzibp392il",
               "name": "Pricing Flow",
               "layout": {
                 "containerWidth": "full",
@@ -520,7 +522,7 @@
               },
               "blocks": [
                 {
-                  "id": "blk_mtp1uotly8z5bmo99",
+                  "id": "blk_mtp5swykaofvsqbvn",
                   "type": "header",
                   "version": "1.0.0",
                   "props": {
@@ -564,7 +566,7 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp1uotl7n292niim",
+                  "id": "blk_mtp5swykxdly8x16x",
                   "type": "pricing",
                   "version": "1.0.0",
                   "props": {
@@ -574,7 +576,7 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp1uotlhszpvpqc5",
+                  "id": "blk_mtp5swykdgomlzfrv",
                   "type": "faq",
                   "version": "1.0.0",
                   "props": {
@@ -584,7 +586,7 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp1uotl9h318d8os",
+                  "id": "blk_mtp5swyklilz0v022",
                   "type": "footer",
                   "version": "1.0.0",
                   "props": {
@@ -659,7 +661,7 @@
           ]
         },
         {
-          "id": "pag_mtp1uotl535ep3bo3",
+          "id": "pag_mtp5swykd56h6jpmq",
           "name": "Nosotros",
           "route": "/about",
           "seo": {
@@ -668,7 +670,7 @@
           },
           "sections": [
             {
-              "id": "sec_mtp1uotl2vg4gls43",
+              "id": "sec_mtp5swykjbhwmh0md",
               "name": "About Flow",
               "layout": {
                 "containerWidth": "full",
@@ -676,7 +678,7 @@
               },
               "blocks": [
                 {
-                  "id": "blk_mtp1uotls5kz6by7v",
+                  "id": "blk_mtp5swykqu51i1rz3",
                   "type": "header",
                   "version": "1.0.0",
                   "props": {
@@ -720,7 +722,7 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp1uotlgkwtlp65f",
+                  "id": "blk_mtp5swyk80oylgnou",
                   "type": "hero",
                   "version": "1.0.0",
                   "props": {
@@ -736,7 +738,7 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp1uotlnhz6s5ki2",
+                  "id": "blk_mtp5swykossxiofvf",
                   "type": "features",
                   "version": "1.0.0",
                   "props": {
@@ -766,7 +768,7 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp1uotll945we7ij",
+                  "id": "blk_mtp5swykfxmulew0c",
                   "type": "footer",
                   "version": "1.0.0",
                   "props": {
@@ -841,7 +843,7 @@
           ]
         },
         {
-          "id": "pag_mtp1uotlwjpbwz6ci",
+          "id": "pag_mtp5swykc5m4qcg5s",
           "name": "Docs",
           "route": "/docs",
           "seo": {
@@ -850,7 +852,7 @@
           },
           "sections": [
             {
-              "id": "sec_mtp1uotltpna1jhgm",
+              "id": "sec_mtp5swykeqetoz21l",
               "name": "Docs Flow",
               "layout": {
                 "containerWidth": "full",
@@ -858,7 +860,7 @@
               },
               "blocks": [
                 {
-                  "id": "blk_mtp1uotlxssdaw4dc",
+                  "id": "blk_mtp5swykd00uxmars",
                   "type": "header",
                   "version": "1.0.0",
                   "props": {
@@ -902,7 +904,7 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp1uotlkhyd55m0x",
+                  "id": "blk_mtp5swykttbe6bslr",
                   "type": "banner",
                   "version": "1.0.0",
                   "props": {
@@ -916,7 +918,7 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp1uotlakba574q3",
+                  "id": "blk_mtp5swykiddr4z19w",
                   "type": "features",
                   "version": "1.0.0",
                   "props": {
@@ -946,7 +948,7 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp1uotl2sy4sg1dw",
+                  "id": "blk_mtp5swykafp5awccf",
                   "type": "faq",
                   "version": "1.0.0",
                   "props": {
@@ -956,7 +958,7 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp1uotlp6zbgv6bh",
+                  "id": "blk_mtp5swykwzz7i56ob",
                   "type": "footer",
                   "version": "1.0.0",
                   "props": {
@@ -1031,7 +1033,7 @@
           ]
         },
         {
-          "id": "pag_mtp1uotlc9wgxcmi1",
+          "id": "pag_mtp5swykalgjaq3bd",
           "name": "API Reference",
           "route": "/api",
           "seo": {
@@ -1040,7 +1042,7 @@
           },
           "sections": [
             {
-              "id": "sec_mtp1uotl8ywmf8oql",
+              "id": "sec_mtp5swykdymcmxxw8",
               "name": "API Flow",
               "layout": {
                 "containerWidth": "full",
@@ -1048,7 +1050,7 @@
               },
               "blocks": [
                 {
-                  "id": "blk_mtp1uotlu4ce76thp",
+                  "id": "blk_mtp5swykkjyglgfwl",
                   "type": "header",
                   "version": "1.0.0",
                   "props": {
@@ -1092,7 +1094,7 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp1uotlitkc61zih",
+                  "id": "blk_mtp5swykv1qdeeii1",
                   "type": "hero",
                   "version": "1.0.0",
                   "props": {
@@ -1108,7 +1110,7 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp1uotlsvk8fll6w",
+                  "id": "blk_mtp5swyk6vegc9pmb",
                   "type": "features",
                   "version": "1.0.0",
                   "props": {
@@ -1138,7 +1140,7 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp1uotl1hlbyx2ug",
+                  "id": "blk_mtp5swyk6wsth2rvp",
                   "type": "footer",
                   "version": "1.0.0",
                   "props": {
@@ -1213,7 +1215,7 @@
           ]
         },
         {
-          "id": "pag_mtp1uotlvhevq8o5p",
+          "id": "pag_mtp5swykljxje0nqp",
           "name": "Community",
           "route": "/community",
           "seo": {
@@ -1222,7 +1224,7 @@
           },
           "sections": [
             {
-              "id": "sec_mtp1uotlo9r1r760g",
+              "id": "sec_mtp5swykdtsvp9eaw",
               "name": "Community Flow",
               "layout": {
                 "containerWidth": "full",
@@ -1230,7 +1232,7 @@
               },
               "blocks": [
                 {
-                  "id": "blk_mtp1uotls192kvro0",
+                  "id": "blk_mtp5swykuhpjey550",
                   "type": "header",
                   "version": "1.0.0",
                   "props": {
@@ -1274,7 +1276,7 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp1uotlsae6k8msy",
+                  "id": "blk_mtp5swykpo8uixatm",
                   "type": "hero",
                   "version": "1.0.0",
                   "props": {
@@ -1290,7 +1292,7 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp1uotldjtq92dfp",
+                  "id": "blk_mtp5swyk1ubmcxprf",
                   "type": "testimonials",
                   "version": "1.0.0",
                   "props": {
@@ -1300,7 +1302,7 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp1uotluv5rs3e8w",
+                  "id": "blk_mtp5swykx7ljai0f6",
                   "type": "footer",
                   "version": "1.0.0",
                   "props": {
@@ -1375,7 +1377,7 @@
           ]
         },
         {
-          "id": "pag_mtp1uotlj913df818",
+          "id": "pag_mtp5swykoqyfxbrhp",
           "name": "Contacto",
           "route": "/contact",
           "seo": {
@@ -1384,7 +1386,7 @@
           },
           "sections": [
             {
-              "id": "sec_mtp1uotlsbbulim04",
+              "id": "sec_mtp5swyk07l92bmss",
               "name": "Contact Flow",
               "layout": {
                 "containerWidth": "full",
@@ -1392,7 +1394,7 @@
               },
               "blocks": [
                 {
-                  "id": "blk_mtp1uotl0886tdv7x",
+                  "id": "blk_mtp5swykdfzvw2kru",
                   "type": "header",
                   "version": "1.0.0",
                   "props": {
@@ -1436,7 +1438,7 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp1uotl50ml08p6h",
+                  "id": "blk_mtp5swyk9zzhkcyve",
                   "type": "contact-form",
                   "version": "1.0.0",
                   "props": {
@@ -1450,7 +1452,7 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp1uotl7h0cpvq3d",
+                  "id": "blk_mtp5swyk8w24db3u6",
                   "type": "footer",
                   "version": "1.0.0",
                   "props": {
@@ -1525,7 +1527,7 @@
           ]
         },
         {
-          "id": "pag_mtp1uotlfjqp56ydv",
+          "id": "pag_mtp5swykneo2dbvon",
           "name": "Privacy Policy",
           "route": "/privacy",
           "seo": {
@@ -1534,7 +1536,7 @@
           },
           "sections": [
             {
-              "id": "sec_mtp1uotlq4fbziayz",
+              "id": "sec_mtp5swykrb6vm2y2m",
               "name": "Privacy Flow",
               "layout": {
                 "containerWidth": "full",
@@ -1542,7 +1544,7 @@
               },
               "blocks": [
                 {
-                  "id": "blk_mtp1uotl2br6sswt8",
+                  "id": "blk_mtp5swyk6tc287blc",
                   "type": "header",
                   "version": "1.0.0",
                   "props": {
@@ -1586,7 +1588,7 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp1uotl0o6dmrja7",
+                  "id": "blk_mtp5swyknfr1ql1bv",
                   "type": "banner",
                   "version": "1.0.0",
                   "props": {
@@ -1600,7 +1602,7 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp1uotl2f9oku7hd",
+                  "id": "blk_mtp5swykec83v3elk",
                   "type": "faq",
                   "version": "1.0.0",
                   "props": {
@@ -1627,7 +1629,7 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp1uotlgkrv5ktec",
+                  "id": "blk_mtp5swykskzcdk5ug",
                   "type": "footer",
                   "version": "1.0.0",
                   "props": {
@@ -1702,7 +1704,7 @@
           ]
         },
         {
-          "id": "pag_mtp1uotlbfh15qzih",
+          "id": "pag_mtp5swykxlny3wjzs",
           "name": "Terms of Service",
           "route": "/terms",
           "seo": {
@@ -1711,7 +1713,7 @@
           },
           "sections": [
             {
-              "id": "sec_mtp1uotl5d2z0ksb0",
+              "id": "sec_mtp5swykljck0rusm",
               "name": "Terms Flow",
               "layout": {
                 "containerWidth": "full",
@@ -1719,7 +1721,7 @@
               },
               "blocks": [
                 {
-                  "id": "blk_mtp1uotla1vd1kaze",
+                  "id": "blk_mtp5swyk73mferrrr",
                   "type": "header",
                   "version": "1.0.0",
                   "props": {
@@ -1763,7 +1765,7 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp1uotla8fmgskfu",
+                  "id": "blk_mtp5swykv2qffuqp7",
                   "type": "banner",
                   "version": "1.0.0",
                   "props": {
@@ -1777,7 +1779,7 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp1uotlooxz73h0z",
+                  "id": "blk_mtp5swyke7pgm3cx0",
                   "type": "faq",
                   "version": "1.0.0",
                   "props": {
@@ -1804,7 +1806,7 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp1uotlxxh8q7t28",
+                  "id": "blk_mtp5swykb1k7mmefs",
                   "type": "footer",
                   "version": "1.0.0",
                   "props": {
@@ -1879,7 +1881,7 @@
           ]
         },
         {
-          "id": "pag_mtp1uotl9q81042up",
+          "id": "pag_mtp5swykcfiuc24ca",
           "name": "Embudo Lead Magnet",
           "route": "/embudo",
           "seo": {
@@ -1890,7 +1892,7 @@
           "settings": {},
           "sections": [
             {
-              "id": "sec_mtp1uotll2la9mxdm",
+              "id": "sec_mtp5swykj3s58k3iz",
               "name": "Funnel Section",
               "layout": {
                 "containerWidth": "full",
@@ -1898,7 +1900,7 @@
               },
               "blocks": [
                 {
-                  "id": "blk_mtp1uotln36hdq4yy",
+                  "id": "blk_mtp5swykb0wgriprm",
                   "type": "header",
                   "version": "1.0.0",
                   "props": {
@@ -1942,7 +1944,7 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp1uotlzmenye75b",
+                  "id": "blk_mtp5swykpo9govs44",
                   "type": "funnel",
                   "version": "1.0.0",
                   "props": {
@@ -1970,7 +1972,7 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp1uotl7kyeswwun",
+                  "id": "blk_mtp5swykf190sd6bl",
                   "type": "footer",
                   "version": "1.0.0",
                   "props": {
@@ -2045,7 +2047,7 @@
           ]
         },
         {
-          "id": "pag_mtp1uotl3vai138i9",
+          "id": "pag_mtp5swyk1v63ghf5a",
           "name": "Página de Gracias",
           "route": "/gracias",
           "seo": {
@@ -2056,7 +2058,7 @@
           "settings": {},
           "sections": [
             {
-              "id": "sec_mtp1uotltknabb62a",
+              "id": "sec_mtp5swykj69nftil3",
               "name": "Thank You Section",
               "layout": {
                 "containerWidth": "full",
@@ -2064,7 +2066,7 @@
               },
               "blocks": [
                 {
-                  "id": "blk_mtp1uotlqnd7icky4",
+                  "id": "blk_mtp5swyk3vy7bna6k",
                   "type": "header",
                   "version": "1.0.0",
                   "props": {
@@ -2108,7 +2110,7 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp1uotlzpm28ym8c",
+                  "id": "blk_mtp5swykc48irlpf9",
                   "type": "thank-you",
                   "version": "1.0.0",
                   "props": {
@@ -2126,7 +2128,7 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp1uotlded06rowp",
+                  "id": "blk_mtp5swykyzfme5qs7",
                   "type": "footer",
                   "version": "1.0.0",
                   "props": {
@@ -2309,8 +2311,8 @@
   ],
   "assets": [],
   "metadata": {
-    "createdAt": "2026-09-06T00:07:29.511Z",
-    "updatedAt": "2026-09-06T00:07:29.511Z",
+    "createdAt": "2026-09-06T02:13:38.002Z",
+    "updatedAt": "2026-09-06T02:13:38.002Z",
     "description": "Exported website source bundle"
   }
 }

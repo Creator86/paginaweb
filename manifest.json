@@ -1,7 +1,7 @@
 {
   "generator": "Modular Website Factory Static Exporter",
   "version": "1.0.0",
-  "exportedAt": "2026-09-06T00:07:29.515Z",
+  "exportedAt": "2026-09-06T02:13:38.005Z",
   "fileCount": 17,
   "files": [
     {
@@ -11,7 +11,7 @@
     },
     {
       "path": "index.html",
-      "size": 41074,
+      "size": 43547,
       "isBinary": false
     },
     {
@@ -61,7 +61,7 @@
     },
     {
       "path": "embudo/index.html",
-      "size": 12915,
+      "size": 15276,
       "isBinary": false
     },
     {
@@ -86,7 +86,7 @@
     },
     {
       "path": "project.json",
-      "size": 86912,
+      "size": 87254,
       "isBinary": false
     }
   ]
