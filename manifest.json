@@ -1,8 +1,8 @@
 {
   "generator": "Modular Website Factory Static Exporter",
   "version": "1.0.0",
-  "exportedAt": "2026-09-06T02:13:38.005Z",
-  "fileCount": 17,
+  "exportedAt": "2026-09-06T02:27:17.301Z",
+  "fileCount": 19,
   "files": [
     {
       "path": "css/theme.css",
@@ -11,57 +11,57 @@
     },
     {
       "path": "index.html",
-      "size": 43547,
+      "size": 22717,
       "isBinary": false
     },
     {
       "path": "overview/index.html",
-      "size": 16592,
+      "size": 16493,
       "isBinary": false
     },
     {
       "path": "pricing/index.html",
-      "size": 22021,
+      "size": 22103,
       "isBinary": false
     },
     {
       "path": "about/index.html",
-      "size": 16566,
+      "size": 16655,
       "isBinary": false
     },
     {
       "path": "docs/index.html",
-      "size": 20010,
+      "size": 20053,
       "isBinary": false
     },
     {
       "path": "api/index.html",
-      "size": 16515,
+      "size": 16588,
       "isBinary": false
     },
     {
       "path": "community/index.html",
-      "size": 14954,
+      "size": 15003,
       "isBinary": false
     },
     {
       "path": "contact/index.html",
-      "size": 11159,
+      "size": 11261,
       "isBinary": false
     },
     {
       "path": "privacy/index.html",
-      "size": 14866,
+      "size": 14903,
       "isBinary": false
     },
     {
       "path": "terms/index.html",
-      "size": 14789,
+      "size": 14868,
       "isBinary": false
     },
     {
       "path": "embudo/index.html",
-      "size": 15276,
+      "size": 15327,
       "isBinary": false
     },
     {
@@ -85,8 +85,18 @@
       "isBinary": false
     },
     {
+      "path": ".github/workflows/send-remarketing.yml",
+      "size": 764,
+      "isBinary": false
+    },
+    {
+      "path": "scripts/send-remarketing.mjs",
+      "size": 5698,
+      "isBinary": false
+    },
+    {
       "path": "project.json",
-      "size": 87254,
+      "size": 86183,
       "isBinary": false
     }
   ]

@@ -85,176 +85,144 @@
       },
       "pages": [
         {
-          "id": "pag_mtp5swykuxe0pjbxl",
+          "id": "pag_mtp6v02j6i3ecpafd",
           "name": "Home",
           "route": "/",
           "seo": {
-            "title": "NextGen Cloud — High Conversion Modular Platform",
-            "description": "Streamline your operations with our high-impact modular software."
+            "title": "NexusFlow Enterprise — Plataforma Digital Corporativa",
+            "description": "Liderando el futuro corporativo con soluciones sólidas, escalables y confiables."
           },
           "sections": [
             {
-              "id": "sec_mtp5swyk1x549zlkn",
-              "name": "Landing Flow",
+              "id": "sec_mtp6v02j90kp39tnu",
+              "name": "Home Structure",
               "layout": {
                 "containerWidth": "full",
                 "paddingY": "0"
               },
               "blocks": [
                 {
-                  "id": "blk_mtp5swykvjoacvo0a",
+                  "id": "blk_mtp6v02jpvg6bu5q5",
+                  "type": "header",
+                  "version": "1.0.0",
+                  "props": {
+                    "brandName": "NexusFlow Enterprise",
+                    "sticky": true,
+                    "ctaLabel": "Cotizar Proyecto",
+                    "ctaHref": "/contact",
+                    "navItems": [
+                      {
+                        "id": "nav_1",
+                        "label": "Inicio",
+                        "href": "/"
+                      },
+                      {
+                        "id": "nav_2",
+                        "label": "Overview",
+                        "href": "/overview"
+                      },
+                      {
+                        "id": "nav_3",
+                        "label": "Precios",
+                        "href": "/pricing"
+                      },
+                      {
+                        "id": "nav_4",
+                        "label": "Nosotros",
+                        "href": "/about"
+                      },
+                      {
+                        "id": "nav_5",
+                        "label": "Docs",
+                        "href": "/docs"
+                      },
+                      {
+                        "id": "nav_6",
+                        "label": "Contacto",
+                        "href": "/contact"
+                      }
+                    ]
+                  },
+                  "components": []
+                },
+                {
+                  "id": "blk_mtp6v02jpra3ge1oh",
                   "type": "banner",
                   "version": "1.0.0",
                   "props": {
-                    "badgeText": "LANZAMIENTO",
-                    "headline": "¡Descuento exclusivo del 20% para primeros usuarios!",
-                    "description": "Aprovecha nuestra tarifa promocional de lanzamiento por tiempo limitado.",
-                    "actionLabel": "Obtener Oferta",
-                    "actionHref": "/pricing",
+                    "badgeText": "CORPORATIVO",
+                    "headline": "Impulsa tu Transformación Digital con NexusFlow",
+                    "description": "Arquitectura en la nube y módulos de alta disponibilidad listos para desplegar.",
+                    "actionLabel": "Ver Casos de Éxito",
+                    "actionHref": "/overview",
                     "variant": "accent"
                   },
                   "components": []
                 },
                 {
-                  "id": "blk_mtp5swyk0wm6ltpsn",
-                  "type": "header",
-                  "version": "1.0.0",
-                  "props": {
-                    "brandName": "NextGen Cloud",
-                    "sticky": true,
-                    "ctaLabel": "Get Started Free",
-                    "ctaHref": "/pricing",
-                    "navItems": [
-                      {
-                        "id": "l_nav_1",
-                        "label": "Inicio",
-                        "href": "/"
-                      },
-                      {
-                        "id": "l_nav_2",
-                        "label": "Overview",
-                        "href": "/overview"
-                      },
-                      {
-                        "id": "l_nav_3",
-                        "label": "Features",
-                        "href": "/#features"
-                      },
-                      {
-                        "id": "l_nav_4",
-                        "label": "Pricing",
-                        "href": "/pricing"
-                      },
-                      {
-                        "id": "l_nav_5",
-                        "label": "Docs",
-                        "href": "/docs"
-                      },
-                      {
-                        "id": "l_nav_6",
-                        "label": "Contacto",
-                        "href": "/contact"
-                      }
-                    ]
-                  },
-                  "components": []
-                },
-                {
-                  "id": "blk_mtp5swykklmedm8fo",
+                  "id": "blk_mtp6v02j1lmievj6w",
                   "type": "hero",
                   "version": "1.0.0",
                   "props": {
-                    "headline": "Turn Every Visitor into a Loyal Customer",
-                    "subheadline": "The all-in-one platform built for speed, conversion, and effortless modular design.",
-                    "primaryActionLabel": "Claim 14-Day Trial",
-                    "primaryActionHref": "/pricing",
-                    "secondaryActionLabel": "Explore Highlights",
-                    "secondaryActionHref": "/#features",
-                    "imageSrc": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1200&q=80",
-                    "imageAlt": "Growth Analytics Performance Overview"
+                    "headline": "Soluciones Empresariales de Próxima Generación",
+                    "subheadline": "Construimos infraestructura digital robusta, segura y escalable para empresas que lideran sus industrias.",
+                    "primaryActionLabel": "Conoce Nuestros Servicios",
+                    "primaryActionHref": "#features",
+                    "secondaryActionLabel": "Hablar con un Asesor",
+                    "secondaryActionHref": "/contact",
+                    "imageSrc": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=1200&q=80",
+                    "imageAlt": "Equipo de ingenieros y ejecutivos colaborando"
                   },
                   "components": []
                 },
                 {
-                  "id": "blk_mtp5swykwygt9te38",
+                  "id": "blk_mtp6v02j7pte06g8n",
                   "type": "features",
                   "version": "1.0.0",
                   "props": {
-                    "sectionTitle": "Everything You Need to Scale",
-                    "sectionSubtitle": "Designed meticulously for developers, founders, and digital teams.",
+                    "sectionTitle": "Capacidades de Grado Corporativo",
+                    "sectionSubtitle": "Tecnología diseñada para cumplir los estándares más exigentes de seguridad y rendimiento.",
                     "features": [
                       {
                         "id": "f1",
-                        "title": "Lightning Fast",
-                        "description": "Zero bloated scripts, sub-second latency worldwide.",
-                        "badge": "Fast"
+                        "title": "Alta Disponibilidad 99.99%",
+                        "description": "SLA garantizado con redundancia multi-región y conmutación por error inmediata.",
+                        "badge": "SLA"
                       },
                       {
                         "id": "f2",
-                        "title": "Modular Architecture",
-                        "description": "Swap design tokens, schemas and visual blocks effortlessly.",
-                        "badge": "Flexible"
+                        "title": "Seguridad SOC2 & ISO27001",
+                        "description": "Cifrado de grado bancario en reposo y en tránsito con auditorías continuas.",
+                        "badge": "Seguridad"
                       },
                       {
                         "id": "f3",
-                        "title": "Deterministic Export",
-                        "description": "Export to production HTML, CSS bundles and zip distribution in 1 click.",
-                        "badge": "Clean"
+                        "title": "Integración Omnicanal",
+                        "description": "APIs REST y GraphQL para conectar tus sistemas legados y modernos sin fricciones.",
+                        "badge": "Conexión"
                       }
                     ]
                   },
                   "components": []
                 },
                 {
-                  "id": "blk_mtp5swykycguczb1e",
+                  "id": "blk_mtp6v02jvm15n8085",
                   "type": "testimonials",
                   "version": "1.0.0",
                   "props": {
-                    "sectionTitle": "Trusted by 10,000+ Innovators Worldwide",
-                    "sectionSubtitle": "Here is what industry leaders say about our platform."
+                    "sectionTitle": "Lo que Dicen Nuestros Clientes Corporativos",
+                    "sectionSubtitle": "Testimonios reales de directores de tecnología y líderes empresariales."
                   },
                   "components": []
                 },
                 {
-                  "id": "blk_mtp5swyk2psvskcb8",
-                  "type": "pricing",
-                  "version": "1.0.0",
-                  "props": {
-                    "sectionTitle": "Transparent, Predictable Investment",
-                    "sectionSubtitle": "Choose the right tier to accelerate your business growth."
-                  },
-                  "components": []
-                },
-                {
-                  "id": "blk_mtp5swyk605wao86g",
-                  "type": "faq",
-                  "version": "1.0.0",
-                  "props": {
-                    "sectionTitle": "Frequently Asked Questions",
-                    "sectionSubtitle": "Everything you need to know about our technology and licensing."
-                  },
-                  "components": []
-                },
-                {
-                  "id": "blk_mtp5uipda5gjbpb3l",
-                  "type": "funnel",
-                  "version": "1.0.0",
-                  "props": {
-                    "supabaseUrl": "https://fwlpggmavtwmqwlbglzb.supabase.co",
-                    "supabaseAnonKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZ3bHBnZ21hdnR3bXF3bGJnbHpiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODg2NDM4NzcsImV4cCI6MjEwNDIxOTg3N30.1D2jnC8Ne6_QW0YyebAGECMT44abcGWdFmz1gcpYG1g",
-                    "thankYouPageRoute": "/gracias",
-                    "recipientEmail": "@eokiruekar.resend.app"
-                  },
-                  "components": []
-                },
-                {
-                  "id": "blk_mtp5swykfxk0ww6el",
+                  "id": "blk_mtp6v02j3rsz3q72o",
                   "type": "footer",
                   "version": "1.0.0",
                   "props": {
-                    "brandName": "NextGen Cloud",
+                    "brandName": "NexusFlow Enterprise",
                     "tagline": "Liderando el futuro corporativo con soluciones sólidas, escalables y confiables.",
-                    "copyrightText": "© 2026 NextGen Cloud Inc. Todos los derechos reservados.",
+                    "copyrightText": "© 2026 NexusFlow Enterprise Inc. Todos los derechos reservados.",
                     "linkGroups": [
                       {
                         "id": "g1",
@@ -323,59 +291,59 @@
           ]
         },
         {
-          "id": "pag_mtp5swyklw6s9ighk",
+          "id": "pag_mtp6v02jzpaubka3i",
           "name": "Overview",
           "route": "/overview",
           "seo": {
-            "title": "Product Overview — NextGen Cloud",
-            "description": "A deep dive into our modular cloud architecture and features."
+            "title": "Visión General del Producto — NexusFlow",
+            "description": "Conoce a fondo nuestra arquitectura, módulos y capacidades."
           },
           "sections": [
             {
-              "id": "sec_mtp5swykauzchf4we",
-              "name": "Overview Flow",
+              "id": "sec_mtp6v02jx2aurx44s",
+              "name": "Overview Content",
               "layout": {
                 "containerWidth": "full",
                 "paddingY": "0"
               },
               "blocks": [
                 {
-                  "id": "blk_mtp5swykgjl2ljlf1",
+                  "id": "blk_mtp6v02jklpjegtpr",
                   "type": "header",
                   "version": "1.0.0",
                   "props": {
-                    "brandName": "NextGen Cloud",
+                    "brandName": "NexusFlow Enterprise",
                     "sticky": true,
-                    "ctaLabel": "Get Started Free",
-                    "ctaHref": "/pricing",
+                    "ctaLabel": "Cotizar Proyecto",
+                    "ctaHref": "/contact",
                     "navItems": [
                       {
-                        "id": "l_nav_1",
+                        "id": "nav_1",
                         "label": "Inicio",
                         "href": "/"
                       },
                       {
-                        "id": "l_nav_2",
+                        "id": "nav_2",
                         "label": "Overview",
                         "href": "/overview"
                       },
                       {
-                        "id": "l_nav_3",
-                        "label": "Features",
-                        "href": "/#features"
-                      },
-                      {
-                        "id": "l_nav_4",
-                        "label": "Pricing",
+                        "id": "nav_3",
+                        "label": "Precios",
                         "href": "/pricing"
                       },
                       {
-                        "id": "l_nav_5",
+                        "id": "nav_4",
+                        "label": "Nosotros",
+                        "href": "/about"
+                      },
+                      {
+                        "id": "nav_5",
                         "label": "Docs",
                         "href": "/docs"
                       },
                       {
-                        "id": "l_nav_6",
+                        "id": "nav_6",
                         "label": "Contacto",
                         "href": "/contact"
                       }
@@ -384,563 +352,45 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp5swyka3irm2h5v",
+                  "id": "blk_mtp6v02jihvecjbg6",
                   "type": "hero",
                   "version": "1.0.0",
                   "props": {
-                    "headline": "Arquitectura Diseñada para Alta Conversión",
-                    "subheadline": "Explora cómo NextGen Cloud permite crear y desplegar experiencias web dinámicas con rendimiento nativo.",
-                    "primaryActionLabel": "Ver Precios",
-                    "primaryActionHref": "/pricing",
-                    "secondaryActionLabel": "Leer Documentación",
-                    "secondaryActionHref": "/docs",
+                    "headline": "Visión General: Arquitectura y Rendimiento",
+                    "subheadline": "Descubre cómo NexusFlow redefine la creación web y el despliegue a gran escala.",
+                    "primaryActionLabel": "Ver Documentación",
+                    "primaryActionHref": "/docs",
+                    "secondaryActionLabel": "Probar API",
+                    "secondaryActionHref": "/api",
                     "imageSrc": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1200&q=80",
-                    "imageAlt": "Dashboard métricas NextGen Cloud"
+                    "imageAlt": "Dashboard de métricas y analítica"
                   },
                   "components": []
                 },
                 {
-                  "id": "blk_mtp5swyk4g9xgtnxg",
+                  "id": "blk_mtp6v02j2iyyq6ttx",
                   "type": "features",
                   "version": "1.0.0",
                   "props": {
-                    "sectionTitle": "Capacidades Centrales del Producto",
-                    "sectionSubtitle": "Rendimiento, fiabilidad y componentes reutilizables sin fricción.",
+                    "sectionTitle": "Pilares Tecnológicos",
+                    "sectionSubtitle": "Un ecosistema modular optimizado para cero tiempo de inactividad.",
                     "features": [
                       {
-                        "id": "o1",
-                        "title": "Generación Determinista",
-                        "description": "Tus páginas se compilan como HTML estático optimizado con tiempos de carga instantáneos.",
-                        "badge": "Rápido"
+                        "id": "p1",
+                        "title": "Motor Determinista",
+                        "description": "Generación estática ultra rápida sin dependencias pesadas.",
+                        "badge": "Core"
                       },
                       {
-                        "id": "o2",
-                        "title": "Diseño Modular Inteligente",
-                        "description": "Ensambla banners, galerías, tablas de precios y testimonios en segundos.",
-                        "badge": "Modular"
+                        "id": "p2",
+                        "title": "Tokens de Diseño Globales",
+                        "description": "Paletas de color y tipografía sincronizadas al instante.",
+                        "badge": "Tokens"
                       },
                       {
-                        "id": "o3",
+                        "id": "p3",
                         "title": "Exportación Todo en Uno",
-                        "description": "Descarga tu sitio completo listo para producción sin depender de servidores propietarios.",
-                        "badge": "Libertad"
-                      }
-                    ]
-                  },
-                  "components": []
-                },
-                {
-                  "id": "blk_mtp5swykmhl2k4by6",
-                  "type": "footer",
-                  "version": "1.0.0",
-                  "props": {
-                    "brandName": "NextGen Cloud",
-                    "tagline": "Liderando el futuro corporativo con soluciones sólidas, escalables y confiables.",
-                    "copyrightText": "© 2026 NextGen Cloud Inc. Todos los derechos reservados.",
-                    "linkGroups": [
-                      {
-                        "id": "g1",
-                        "title": "Product",
-                        "links": [
-                          {
-                            "id": "l1",
-                            "label": "Overview",
-                            "href": "/overview"
-                          },
-                          {
-                            "id": "l2",
-                            "label": "Features",
-                            "href": "/#features"
-                          },
-                          {
-                            "id": "l3",
-                            "label": "Pricing",
-                            "href": "/pricing"
-                          }
-                        ]
-                      },
-                      {
-                        "id": "g2",
-                        "title": "Resources",
-                        "links": [
-                          {
-                            "id": "l4",
-                            "label": "Documentation",
-                            "href": "/docs"
-                          },
-                          {
-                            "id": "l5",
-                            "label": "API Reference",
-                            "href": "/api"
-                          },
-                          {
-                            "id": "l6",
-                            "label": "Community",
-                            "href": "/community"
-                          }
-                        ]
-                      },
-                      {
-                        "id": "g3",
-                        "title": "Legal",
-                        "links": [
-                          {
-                            "id": "l7",
-                            "label": "Privacy Policy",
-                            "href": "/privacy"
-                          },
-                          {
-                            "id": "l8",
-                            "label": "Terms of Service",
-                            "href": "/terms"
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  "components": []
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "pag_mtp5swykk8h99pjpy",
-          "name": "Precios",
-          "route": "/pricing",
-          "seo": {
-            "title": "Planes y Precios — NextGen Cloud",
-            "description": "Elige el plan ideal para tu negocio con total transparencia."
-          },
-          "sections": [
-            {
-              "id": "sec_mtp5swykzibp392il",
-              "name": "Pricing Flow",
-              "layout": {
-                "containerWidth": "full",
-                "paddingY": "0"
-              },
-              "blocks": [
-                {
-                  "id": "blk_mtp5swykaofvsqbvn",
-                  "type": "header",
-                  "version": "1.0.0",
-                  "props": {
-                    "brandName": "NextGen Cloud",
-                    "sticky": true,
-                    "ctaLabel": "Get Started Free",
-                    "ctaHref": "/pricing",
-                    "navItems": [
-                      {
-                        "id": "l_nav_1",
-                        "label": "Inicio",
-                        "href": "/"
-                      },
-                      {
-                        "id": "l_nav_2",
-                        "label": "Overview",
-                        "href": "/overview"
-                      },
-                      {
-                        "id": "l_nav_3",
-                        "label": "Features",
-                        "href": "/#features"
-                      },
-                      {
-                        "id": "l_nav_4",
-                        "label": "Pricing",
-                        "href": "/pricing"
-                      },
-                      {
-                        "id": "l_nav_5",
-                        "label": "Docs",
-                        "href": "/docs"
-                      },
-                      {
-                        "id": "l_nav_6",
-                        "label": "Contacto",
-                        "href": "/contact"
-                      }
-                    ]
-                  },
-                  "components": []
-                },
-                {
-                  "id": "blk_mtp5swykxdly8x16x",
-                  "type": "pricing",
-                  "version": "1.0.0",
-                  "props": {
-                    "sectionTitle": "Planes Transparentes para Cada Etapa",
-                    "sectionSubtitle": "Comienza gratis y escala a medida que tu audiencia crezca."
-                  },
-                  "components": []
-                },
-                {
-                  "id": "blk_mtp5swykdgomlzfrv",
-                  "type": "faq",
-                  "version": "1.0.0",
-                  "props": {
-                    "sectionTitle": "Dudas Frecuentes sobre Facturación",
-                    "sectionSubtitle": "Información clara sobre cancelaciones, métodos de pago y reembolsos."
-                  },
-                  "components": []
-                },
-                {
-                  "id": "blk_mtp5swyklilz0v022",
-                  "type": "footer",
-                  "version": "1.0.0",
-                  "props": {
-                    "brandName": "NextGen Cloud",
-                    "tagline": "Liderando el futuro corporativo con soluciones sólidas, escalables y confiables.",
-                    "copyrightText": "© 2026 NextGen Cloud Inc. Todos los derechos reservados.",
-                    "linkGroups": [
-                      {
-                        "id": "g1",
-                        "title": "Product",
-                        "links": [
-                          {
-                            "id": "l1",
-                            "label": "Overview",
-                            "href": "/overview"
-                          },
-                          {
-                            "id": "l2",
-                            "label": "Features",
-                            "href": "/#features"
-                          },
-                          {
-                            "id": "l3",
-                            "label": "Pricing",
-                            "href": "/pricing"
-                          }
-                        ]
-                      },
-                      {
-                        "id": "g2",
-                        "title": "Resources",
-                        "links": [
-                          {
-                            "id": "l4",
-                            "label": "Documentation",
-                            "href": "/docs"
-                          },
-                          {
-                            "id": "l5",
-                            "label": "API Reference",
-                            "href": "/api"
-                          },
-                          {
-                            "id": "l6",
-                            "label": "Community",
-                            "href": "/community"
-                          }
-                        ]
-                      },
-                      {
-                        "id": "g3",
-                        "title": "Legal",
-                        "links": [
-                          {
-                            "id": "l7",
-                            "label": "Privacy Policy",
-                            "href": "/privacy"
-                          },
-                          {
-                            "id": "l8",
-                            "label": "Terms of Service",
-                            "href": "/terms"
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  "components": []
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "pag_mtp5swykd56h6jpmq",
-          "name": "Nosotros",
-          "route": "/about",
-          "seo": {
-            "title": "Sobre Nosotros — NextGen Cloud",
-            "description": "Nuestra visión, valores y misión para transformar el desarrollo web."
-          },
-          "sections": [
-            {
-              "id": "sec_mtp5swykjbhwmh0md",
-              "name": "About Flow",
-              "layout": {
-                "containerWidth": "full",
-                "paddingY": "0"
-              },
-              "blocks": [
-                {
-                  "id": "blk_mtp5swykqu51i1rz3",
-                  "type": "header",
-                  "version": "1.0.0",
-                  "props": {
-                    "brandName": "NextGen Cloud",
-                    "sticky": true,
-                    "ctaLabel": "Get Started Free",
-                    "ctaHref": "/pricing",
-                    "navItems": [
-                      {
-                        "id": "l_nav_1",
-                        "label": "Inicio",
-                        "href": "/"
-                      },
-                      {
-                        "id": "l_nav_2",
-                        "label": "Overview",
-                        "href": "/overview"
-                      },
-                      {
-                        "id": "l_nav_3",
-                        "label": "Features",
-                        "href": "/#features"
-                      },
-                      {
-                        "id": "l_nav_4",
-                        "label": "Pricing",
-                        "href": "/pricing"
-                      },
-                      {
-                        "id": "l_nav_5",
-                        "label": "Docs",
-                        "href": "/docs"
-                      },
-                      {
-                        "id": "l_nav_6",
-                        "label": "Contacto",
-                        "href": "/contact"
-                      }
-                    ]
-                  },
-                  "components": []
-                },
-                {
-                  "id": "blk_mtp5swyk80oylgnou",
-                  "type": "hero",
-                  "version": "1.0.0",
-                  "props": {
-                    "headline": "Democratizando el Desarrollo Web de Alta Calidad",
-                    "subheadline": "Construimos herramientas que permiten a creadores y empresas lanzar productos digitales de clase mundial sin complejidad innecesaria.",
-                    "primaryActionLabel": "Conoce Nuestra API",
-                    "primaryActionHref": "/api",
-                    "secondaryActionLabel": "Contáctanos",
-                    "secondaryActionHref": "/contact",
-                    "imageSrc": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&q=80",
-                    "imageAlt": "Equipo de NextGen Cloud trabajando"
-                  },
-                  "components": []
-                },
-                {
-                  "id": "blk_mtp5swykossxiofvf",
-                  "type": "features",
-                  "version": "1.0.0",
-                  "props": {
-                    "sectionTitle": "Nuestros Pilares",
-                    "sectionSubtitle": "Principios que guían cada línea de código que escribimos.",
-                    "features": [
-                      {
-                        "id": "ab1",
-                        "title": "Velocidad Absoluta",
-                        "description": "Cada milisegundo cuenta para la conversión y la experiencia de usuario.",
-                        "badge": "Speed"
-                      },
-                      {
-                        "id": "ab2",
-                        "title": "Privacidad por Diseño",
-                        "description": "Protección estricta de datos personales y cumplimiento normativo internacional.",
-                        "badge": "Trust"
-                      },
-                      {
-                        "id": "ab3",
-                        "title": "Interoperabilidad",
-                        "description": "Código limpio y exportable que funciona en cualquier entorno o servidor.",
-                        "badge": "Open"
-                      }
-                    ]
-                  },
-                  "components": []
-                },
-                {
-                  "id": "blk_mtp5swykfxmulew0c",
-                  "type": "footer",
-                  "version": "1.0.0",
-                  "props": {
-                    "brandName": "NextGen Cloud",
-                    "tagline": "Liderando el futuro corporativo con soluciones sólidas, escalables y confiables.",
-                    "copyrightText": "© 2026 NextGen Cloud Inc. Todos los derechos reservados.",
-                    "linkGroups": [
-                      {
-                        "id": "g1",
-                        "title": "Product",
-                        "links": [
-                          {
-                            "id": "l1",
-                            "label": "Overview",
-                            "href": "/overview"
-                          },
-                          {
-                            "id": "l2",
-                            "label": "Features",
-                            "href": "/#features"
-                          },
-                          {
-                            "id": "l3",
-                            "label": "Pricing",
-                            "href": "/pricing"
-                          }
-                        ]
-                      },
-                      {
-                        "id": "g2",
-                        "title": "Resources",
-                        "links": [
-                          {
-                            "id": "l4",
-                            "label": "Documentation",
-                            "href": "/docs"
-                          },
-                          {
-                            "id": "l5",
-                            "label": "API Reference",
-                            "href": "/api"
-                          },
-                          {
-                            "id": "l6",
-                            "label": "Community",
-                            "href": "/community"
-                          }
-                        ]
-                      },
-                      {
-                        "id": "g3",
-                        "title": "Legal",
-                        "links": [
-                          {
-                            "id": "l7",
-                            "label": "Privacy Policy",
-                            "href": "/privacy"
-                          },
-                          {
-                            "id": "l8",
-                            "label": "Terms of Service",
-                            "href": "/terms"
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  "components": []
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "pag_mtp5swykc5m4qcg5s",
-          "name": "Docs",
-          "route": "/docs",
-          "seo": {
-            "title": "Documentación Oficial — NextGen Cloud",
-            "description": "Guías completas, arquitectura y tutoriales de integración."
-          },
-          "sections": [
-            {
-              "id": "sec_mtp5swykeqetoz21l",
-              "name": "Docs Flow",
-              "layout": {
-                "containerWidth": "full",
-                "paddingY": "0"
-              },
-              "blocks": [
-                {
-                  "id": "blk_mtp5swykd00uxmars",
-                  "type": "header",
-                  "version": "1.0.0",
-                  "props": {
-                    "brandName": "NextGen Cloud",
-                    "sticky": true,
-                    "ctaLabel": "Get Started Free",
-                    "ctaHref": "/pricing",
-                    "navItems": [
-                      {
-                        "id": "l_nav_1",
-                        "label": "Inicio",
-                        "href": "/"
-                      },
-                      {
-                        "id": "l_nav_2",
-                        "label": "Overview",
-                        "href": "/overview"
-                      },
-                      {
-                        "id": "l_nav_3",
-                        "label": "Features",
-                        "href": "/#features"
-                      },
-                      {
-                        "id": "l_nav_4",
-                        "label": "Pricing",
-                        "href": "/pricing"
-                      },
-                      {
-                        "id": "l_nav_5",
-                        "label": "Docs",
-                        "href": "/docs"
-                      },
-                      {
-                        "id": "l_nav_6",
-                        "label": "Contacto",
-                        "href": "/contact"
-                      }
-                    ]
-                  },
-                  "components": []
-                },
-                {
-                  "id": "blk_mtp5swykttbe6bslr",
-                  "type": "banner",
-                  "version": "1.0.0",
-                  "props": {
-                    "badgeText": "GUÍA RÁPIDA",
-                    "headline": "Centro de Documentación y Tutoriales",
-                    "description": "Aprende a dominar cada bloque, tema de color y exportación en minutos.",
-                    "actionLabel": "Ver API Reference",
-                    "actionHref": "/api",
-                    "variant": "primary"
-                  },
-                  "components": []
-                },
-                {
-                  "id": "blk_mtp5swykiddr4z19w",
-                  "type": "features",
-                  "version": "1.0.0",
-                  "props": {
-                    "sectionTitle": "Manuales Paso a Paso",
-                    "sectionSubtitle": "Todo lo que necesitas saber para desplegar tu sitio web.",
-                    "features": [
-                      {
-                        "id": "d1",
-                        "title": "Instalación y Configuración",
-                        "description": "Inicia el proyecto en local con TypeScript y Next.js sin pasos manuales.",
-                        "badge": "Setup"
-                      },
-                      {
-                        "id": "d2",
-                        "title": "Personalización de Bloques",
-                        "description": "Modifica textos, enlaces a tiendas, imágenes y metadatos visualmente.",
-                        "badge": "Editor"
-                      },
-                      {
-                        "id": "d3",
-                        "title": "Exportación a Servidor",
-                        "description": "Genera el paquete de distribución estático listo para subir a producción.",
+                        "description": "Empaqueta sitios web completos con estructura canónica en ZIP.",
                         "badge": "Deploy"
                       }
                     ]
@@ -948,23 +398,13 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp5swykafp5awccf",
-                  "type": "faq",
-                  "version": "1.0.0",
-                  "props": {
-                    "sectionTitle": "Preguntas Frecuentes sobre la Documentación",
-                    "sectionSubtitle": "Respuestas a consultas técnicas comunes de la plataforma."
-                  },
-                  "components": []
-                },
-                {
-                  "id": "blk_mtp5swykwzz7i56ob",
+                  "id": "blk_mtp6v02jopia4446m",
                   "type": "footer",
                   "version": "1.0.0",
                   "props": {
-                    "brandName": "NextGen Cloud",
+                    "brandName": "NexusFlow Enterprise",
                     "tagline": "Liderando el futuro corporativo con soluciones sólidas, escalables y confiables.",
-                    "copyrightText": "© 2026 NextGen Cloud Inc. Todos los derechos reservados.",
+                    "copyrightText": "© 2026 NexusFlow Enterprise Inc. Todos los derechos reservados.",
                     "linkGroups": [
                       {
                         "id": "g1",
@@ -1033,59 +473,59 @@
           ]
         },
         {
-          "id": "pag_mtp5swykalgjaq3bd",
-          "name": "API Reference",
-          "route": "/api",
+          "id": "pag_mtp6v02juhuq957hg",
+          "name": "Precios",
+          "route": "/pricing",
           "seo": {
-            "title": "API Reference — NextGen Cloud Developers",
-            "description": "Especificación de endpoints, esquemas JSON y SDKs para desarrolladores."
+            "title": "Planes y Tarifas Corporativas — NexusFlow",
+            "description": "Modelos de licenciamiento transparentes para empresas en crecimiento."
           },
           "sections": [
             {
-              "id": "sec_mtp5swykdymcmxxw8",
-              "name": "API Flow",
+              "id": "sec_mtp6v02jmdxxec5ov",
+              "name": "Pricing Content",
               "layout": {
                 "containerWidth": "full",
                 "paddingY": "0"
               },
               "blocks": [
                 {
-                  "id": "blk_mtp5swykkjyglgfwl",
+                  "id": "blk_mtp6v02jbn6jj9zdv",
                   "type": "header",
                   "version": "1.0.0",
                   "props": {
-                    "brandName": "NextGen Cloud",
+                    "brandName": "NexusFlow Enterprise",
                     "sticky": true,
-                    "ctaLabel": "Get Started Free",
-                    "ctaHref": "/pricing",
+                    "ctaLabel": "Cotizar Proyecto",
+                    "ctaHref": "/contact",
                     "navItems": [
                       {
-                        "id": "l_nav_1",
+                        "id": "nav_1",
                         "label": "Inicio",
                         "href": "/"
                       },
                       {
-                        "id": "l_nav_2",
+                        "id": "nav_2",
                         "label": "Overview",
                         "href": "/overview"
                       },
                       {
-                        "id": "l_nav_3",
-                        "label": "Features",
-                        "href": "/#features"
-                      },
-                      {
-                        "id": "l_nav_4",
-                        "label": "Pricing",
+                        "id": "nav_3",
+                        "label": "Precios",
                         "href": "/pricing"
                       },
                       {
-                        "id": "l_nav_5",
+                        "id": "nav_4",
+                        "label": "Nosotros",
+                        "href": "/about"
+                      },
+                      {
+                        "id": "nav_5",
                         "label": "Docs",
                         "href": "/docs"
                       },
                       {
-                        "id": "l_nav_6",
+                        "id": "nav_6",
                         "label": "Contacto",
                         "href": "/contact"
                       }
@@ -1094,59 +534,587 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp5swykv1qdeeii1",
+                  "id": "blk_mtp6v02jxhnxpcdin",
+                  "type": "pricing",
+                  "version": "1.0.0",
+                  "props": {
+                    "sectionTitle": "Inversión Clara y Escalable",
+                    "sectionSubtitle": "Selecciona el plan que mejor se alinee con los objetivos de tu organización."
+                  },
+                  "components": []
+                },
+                {
+                  "id": "blk_mtp6v02ji2yx89rer",
+                  "type": "faq",
+                  "version": "1.0.0",
+                  "props": {
+                    "sectionTitle": "Preguntas Frecuentes sobre Facturación",
+                    "sectionSubtitle": "Resolvemos tus dudas sobre contratos anuales, facturas fiscales y soporte dedicado."
+                  },
+                  "components": []
+                },
+                {
+                  "id": "blk_mtp6v02jtownbj5d7",
+                  "type": "footer",
+                  "version": "1.0.0",
+                  "props": {
+                    "brandName": "NexusFlow Enterprise",
+                    "tagline": "Liderando el futuro corporativo con soluciones sólidas, escalables y confiables.",
+                    "copyrightText": "© 2026 NexusFlow Enterprise Inc. Todos los derechos reservados.",
+                    "linkGroups": [
+                      {
+                        "id": "g1",
+                        "title": "Product",
+                        "links": [
+                          {
+                            "id": "l1",
+                            "label": "Overview",
+                            "href": "/overview"
+                          },
+                          {
+                            "id": "l2",
+                            "label": "Features",
+                            "href": "/#features"
+                          },
+                          {
+                            "id": "l3",
+                            "label": "Pricing",
+                            "href": "/pricing"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "g2",
+                        "title": "Resources",
+                        "links": [
+                          {
+                            "id": "l4",
+                            "label": "Documentation",
+                            "href": "/docs"
+                          },
+                          {
+                            "id": "l5",
+                            "label": "API Reference",
+                            "href": "/api"
+                          },
+                          {
+                            "id": "l6",
+                            "label": "Community",
+                            "href": "/community"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "g3",
+                        "title": "Legal",
+                        "links": [
+                          {
+                            "id": "l7",
+                            "label": "Privacy Policy",
+                            "href": "/privacy"
+                          },
+                          {
+                            "id": "l8",
+                            "label": "Terms of Service",
+                            "href": "/terms"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  "components": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "pag_mtp6v02jw026uwpiz",
+          "name": "Nosotros",
+          "route": "/about",
+          "seo": {
+            "title": "Acerca de Nosotros — NexusFlow Enterprise",
+            "description": "Nuestra misión, visión y equipo de expertos en innovación digital."
+          },
+          "sections": [
+            {
+              "id": "sec_mtp6v02jepjbd5pgz",
+              "name": "About Content",
+              "layout": {
+                "containerWidth": "full",
+                "paddingY": "0"
+              },
+              "blocks": [
+                {
+                  "id": "blk_mtp6v02js1bd5s4hu",
+                  "type": "header",
+                  "version": "1.0.0",
+                  "props": {
+                    "brandName": "NexusFlow Enterprise",
+                    "sticky": true,
+                    "ctaLabel": "Cotizar Proyecto",
+                    "ctaHref": "/contact",
+                    "navItems": [
+                      {
+                        "id": "nav_1",
+                        "label": "Inicio",
+                        "href": "/"
+                      },
+                      {
+                        "id": "nav_2",
+                        "label": "Overview",
+                        "href": "/overview"
+                      },
+                      {
+                        "id": "nav_3",
+                        "label": "Precios",
+                        "href": "/pricing"
+                      },
+                      {
+                        "id": "nav_4",
+                        "label": "Nosotros",
+                        "href": "/about"
+                      },
+                      {
+                        "id": "nav_5",
+                        "label": "Docs",
+                        "href": "/docs"
+                      },
+                      {
+                        "id": "nav_6",
+                        "label": "Contacto",
+                        "href": "/contact"
+                      }
+                    ]
+                  },
+                  "components": []
+                },
+                {
+                  "id": "blk_mtp6v02j8l66oa57e",
                   "type": "hero",
                   "version": "1.0.0",
                   "props": {
-                    "headline": "APIs Modernas para Automatización Web",
-                    "subheadline": "Integra NextGen Cloud con tus flujos de CI/CD, CRM o tienda de e-commerce mediante endpoints tipados.",
-                    "primaryActionLabel": "Ver Documentación",
+                    "headline": "Más de 10 Años Impulsando la Tecnología Empresarial",
+                    "subheadline": "Somos un equipo multidisciplinario apasionado por crear software que potencia la productividad de miles de empresas.",
+                    "primaryActionLabel": "Únete a Nuestro Equipo",
+                    "primaryActionHref": "/community",
+                    "secondaryActionLabel": "Contáctanos",
+                    "secondaryActionHref": "/contact",
+                    "imageSrc": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&q=80",
+                    "imageAlt": "Equipo corporativo en sesión de planificación estratégica"
+                  },
+                  "components": []
+                },
+                {
+                  "id": "blk_mtp6v02jwpv3ftx95",
+                  "type": "features",
+                  "version": "1.0.0",
+                  "props": {
+                    "sectionTitle": "Nuestros Valores Fundamentales",
+                    "sectionSubtitle": "La base sobre la cual construimos relaciones duraderas con nuestros clientes.",
+                    "features": [
+                      {
+                        "id": "v1",
+                        "title": "Excelencia Técnica",
+                        "description": "Obsesión por el código limpio, seguro y arquitecturas deterministas.",
+                        "badge": "Calidad"
+                      },
+                      {
+                        "id": "v2",
+                        "title": "Transparencia Total",
+                        "description": "Comunicación clara en contratos, tiempos de entrega y soporte técnico.",
+                        "badge": "Confianza"
+                      },
+                      {
+                        "id": "v3",
+                        "title": "Innovación Continua",
+                        "description": "Incorporamos las mejores herramientas e IA para acelerar el valor comercial.",
+                        "badge": "Futuro"
+                      }
+                    ]
+                  },
+                  "components": []
+                },
+                {
+                  "id": "blk_mtp6v02jd0jmk4fnj",
+                  "type": "footer",
+                  "version": "1.0.0",
+                  "props": {
+                    "brandName": "NexusFlow Enterprise",
+                    "tagline": "Liderando el futuro corporativo con soluciones sólidas, escalables y confiables.",
+                    "copyrightText": "© 2026 NexusFlow Enterprise Inc. Todos los derechos reservados.",
+                    "linkGroups": [
+                      {
+                        "id": "g1",
+                        "title": "Product",
+                        "links": [
+                          {
+                            "id": "l1",
+                            "label": "Overview",
+                            "href": "/overview"
+                          },
+                          {
+                            "id": "l2",
+                            "label": "Features",
+                            "href": "/#features"
+                          },
+                          {
+                            "id": "l3",
+                            "label": "Pricing",
+                            "href": "/pricing"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "g2",
+                        "title": "Resources",
+                        "links": [
+                          {
+                            "id": "l4",
+                            "label": "Documentation",
+                            "href": "/docs"
+                          },
+                          {
+                            "id": "l5",
+                            "label": "API Reference",
+                            "href": "/api"
+                          },
+                          {
+                            "id": "l6",
+                            "label": "Community",
+                            "href": "/community"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "g3",
+                        "title": "Legal",
+                        "links": [
+                          {
+                            "id": "l7",
+                            "label": "Privacy Policy",
+                            "href": "/privacy"
+                          },
+                          {
+                            "id": "l8",
+                            "label": "Terms of Service",
+                            "href": "/terms"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  "components": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "pag_mtp6v02j4g4k4tmyd",
+          "name": "Docs",
+          "route": "/docs",
+          "seo": {
+            "title": "Documentación Oficial — NexusFlow",
+            "description": "Guías de inicio rápido, manuales de arquitectura y mejores prácticas."
+          },
+          "sections": [
+            {
+              "id": "sec_mtp6v02jn6v3z4hou",
+              "name": "Docs Content",
+              "layout": {
+                "containerWidth": "full",
+                "paddingY": "0"
+              },
+              "blocks": [
+                {
+                  "id": "blk_mtp6v02jdtww793so",
+                  "type": "header",
+                  "version": "1.0.0",
+                  "props": {
+                    "brandName": "NexusFlow Enterprise",
+                    "sticky": true,
+                    "ctaLabel": "Cotizar Proyecto",
+                    "ctaHref": "/contact",
+                    "navItems": [
+                      {
+                        "id": "nav_1",
+                        "label": "Inicio",
+                        "href": "/"
+                      },
+                      {
+                        "id": "nav_2",
+                        "label": "Overview",
+                        "href": "/overview"
+                      },
+                      {
+                        "id": "nav_3",
+                        "label": "Precios",
+                        "href": "/pricing"
+                      },
+                      {
+                        "id": "nav_4",
+                        "label": "Nosotros",
+                        "href": "/about"
+                      },
+                      {
+                        "id": "nav_5",
+                        "label": "Docs",
+                        "href": "/docs"
+                      },
+                      {
+                        "id": "nav_6",
+                        "label": "Contacto",
+                        "href": "/contact"
+                      }
+                    ]
+                  },
+                  "components": []
+                },
+                {
+                  "id": "blk_mtp6v02j320ikpgys",
+                  "type": "banner",
+                  "version": "1.0.0",
+                  "props": {
+                    "badgeText": "GUÍA RÁPIDA",
+                    "headline": "Documentación y Referencia Técnica",
+                    "description": "Aprende a instalar, configurar y exportar proyectos con el motor de Website Factory.",
+                    "actionLabel": "Ver API",
+                    "actionHref": "/api",
+                    "variant": "primary"
+                  },
+                  "components": []
+                },
+                {
+                  "id": "blk_mtp6v02jnnvs5c0ar",
+                  "type": "features",
+                  "version": "1.0.0",
+                  "props": {
+                    "sectionTitle": "Guías de Aprendizaje Paso a Paso",
+                    "sectionSubtitle": "Todo lo necesario para dominar el stack desde el primer día.",
+                    "features": [
+                      {
+                        "id": "d1",
+                        "title": "Inicio Rápido (Quickstart)",
+                        "description": "Configura tu primer proyecto y ejecuta el servidor local con un solo comando.",
+                        "badge": "Básico"
+                      },
+                      {
+                        "id": "d2",
+                        "title": "Componentes y Bloques",
+                        "description": "Conoce el catálogo de bloques universales y cómo personalizar sus propiedades.",
+                        "badge": "UI"
+                      },
+                      {
+                        "id": "d3",
+                        "title": "Exportación Estática",
+                        "description": "Genera sitios web HTML + CSS comprimidos listos para cualquier hosting o CDN.",
+                        "badge": "Build"
+                      }
+                    ]
+                  },
+                  "components": []
+                },
+                {
+                  "id": "blk_mtp6v02ji1y5wq4g0",
+                  "type": "faq",
+                  "version": "1.0.0",
+                  "props": {
+                    "sectionTitle": "Preguntas Técnicas Frecuentes",
+                    "sectionSubtitle": "Respuestas a las dudas más comunes de los desarrolladores."
+                  },
+                  "components": []
+                },
+                {
+                  "id": "blk_mtp6v02j7gdalm55t",
+                  "type": "footer",
+                  "version": "1.0.0",
+                  "props": {
+                    "brandName": "NexusFlow Enterprise",
+                    "tagline": "Liderando el futuro corporativo con soluciones sólidas, escalables y confiables.",
+                    "copyrightText": "© 2026 NexusFlow Enterprise Inc. Todos los derechos reservados.",
+                    "linkGroups": [
+                      {
+                        "id": "g1",
+                        "title": "Product",
+                        "links": [
+                          {
+                            "id": "l1",
+                            "label": "Overview",
+                            "href": "/overview"
+                          },
+                          {
+                            "id": "l2",
+                            "label": "Features",
+                            "href": "/#features"
+                          },
+                          {
+                            "id": "l3",
+                            "label": "Pricing",
+                            "href": "/pricing"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "g2",
+                        "title": "Resources",
+                        "links": [
+                          {
+                            "id": "l4",
+                            "label": "Documentation",
+                            "href": "/docs"
+                          },
+                          {
+                            "id": "l5",
+                            "label": "API Reference",
+                            "href": "/api"
+                          },
+                          {
+                            "id": "l6",
+                            "label": "Community",
+                            "href": "/community"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "g3",
+                        "title": "Legal",
+                        "links": [
+                          {
+                            "id": "l7",
+                            "label": "Privacy Policy",
+                            "href": "/privacy"
+                          },
+                          {
+                            "id": "l8",
+                            "label": "Terms of Service",
+                            "href": "/terms"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  "components": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "pag_mtp6v02jwan2rdwad",
+          "name": "API Reference",
+          "route": "/api",
+          "seo": {
+            "title": "API Reference — NexusFlow Developer Portal",
+            "description": "Endpoints REST, SDKs y esquemas Zod para automatización e integración."
+          },
+          "sections": [
+            {
+              "id": "sec_mtp6v02j0zpes0fin",
+              "name": "API Content",
+              "layout": {
+                "containerWidth": "full",
+                "paddingY": "0"
+              },
+              "blocks": [
+                {
+                  "id": "blk_mtp6v02jlaiwahh5d",
+                  "type": "header",
+                  "version": "1.0.0",
+                  "props": {
+                    "brandName": "NexusFlow Enterprise",
+                    "sticky": true,
+                    "ctaLabel": "Cotizar Proyecto",
+                    "ctaHref": "/contact",
+                    "navItems": [
+                      {
+                        "id": "nav_1",
+                        "label": "Inicio",
+                        "href": "/"
+                      },
+                      {
+                        "id": "nav_2",
+                        "label": "Overview",
+                        "href": "/overview"
+                      },
+                      {
+                        "id": "nav_3",
+                        "label": "Precios",
+                        "href": "/pricing"
+                      },
+                      {
+                        "id": "nav_4",
+                        "label": "Nosotros",
+                        "href": "/about"
+                      },
+                      {
+                        "id": "nav_5",
+                        "label": "Docs",
+                        "href": "/docs"
+                      },
+                      {
+                        "id": "nav_6",
+                        "label": "Contacto",
+                        "href": "/contact"
+                      }
+                    ]
+                  },
+                  "components": []
+                },
+                {
+                  "id": "blk_mtp6v02jvqpfvc7fw",
+                  "type": "hero",
+                  "version": "1.0.0",
+                  "props": {
+                    "headline": "API Reference para Desarrolladores",
+                    "subheadline": "Accede programáticamente a páginas, bloques, assets y compiladores con autenticación basada en tokens.",
+                    "primaryActionLabel": "Explorar Endpoints",
                     "primaryActionHref": "/docs",
                     "secondaryActionLabel": "Unirse a la Comunidad",
                     "secondaryActionHref": "/community",
                     "imageSrc": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1200&q=80",
-                    "imageAlt": "Código y endpoints REST"
+                    "imageAlt": "Código de programación y endpoints de API"
                   },
                   "components": []
                 },
                 {
-                  "id": "blk_mtp5swyk6vegc9pmb",
+                  "id": "blk_mtp6v02jbqs8jiw5z",
                   "type": "features",
                   "version": "1.0.0",
                   "props": {
-                    "sectionTitle": "Endpoints Disponibles",
-                    "sectionSubtitle": "Respuestas JSON validadas con esquemas estrictos.",
+                    "sectionTitle": "Endpoints Principales",
+                    "sectionSubtitle": "Diseño RESTful limpio y validación estricta con esquemas Zod.",
                     "features": [
                       {
-                        "id": "ap1",
+                        "id": "a1",
                         "title": "GET /api/v1/pages",
-                        "description": "Obtén la estructura completa de páginas y bloques del proyecto.",
-                        "badge": "JSON"
+                        "description": "Lista y recupera las estructuras de bloques de todas las páginas activas.",
+                        "badge": "REST"
                       },
                       {
-                        "id": "ap2",
+                        "id": "a2",
                         "title": "POST /api/v1/export",
-                        "description": "Inicia la compilación del paquete estático y descarga el archivo ZIP.",
+                        "description": "Dispara la compilación estática y devuelve un paquete ZIP en tiempo real.",
                         "badge": "Build"
                       },
                       {
-                        "id": "ap3",
-                        "title": "POST /api/v1/media",
-                        "description": "Carga y optimiza recursos multimedia con soporte webp automático.",
-                        "badge": "CDN"
+                        "id": "a3",
+                        "title": "POST /api/v1/assets",
+                        "description": "Sube y procesa imágenes y archivos estáticos con metadatos automáticos.",
+                        "badge": "Upload"
                       }
                     ]
                   },
                   "components": []
                 },
                 {
-                  "id": "blk_mtp5swyk6wsth2rvp",
+                  "id": "blk_mtp6v02j3mb4xvarw",
                   "type": "footer",
                   "version": "1.0.0",
                   "props": {
-                    "brandName": "NextGen Cloud",
+                    "brandName": "NexusFlow Enterprise",
                     "tagline": "Liderando el futuro corporativo con soluciones sólidas, escalables y confiables.",
-                    "copyrightText": "© 2026 NextGen Cloud Inc. Todos los derechos reservados.",
+                    "copyrightText": "© 2026 NexusFlow Enterprise Inc. Todos los derechos reservados.",
                     "linkGroups": [
                       {
                         "id": "g1",
@@ -1215,59 +1183,59 @@
           ]
         },
         {
-          "id": "pag_mtp5swykljxje0nqp",
+          "id": "pag_mtp6v02jdr33cx94r",
           "name": "Community",
           "route": "/community",
           "seo": {
-            "title": "Comunidad — NextGen Cloud",
-            "description": "Conéctate con creadores, diseñadores y desarrolladores."
+            "title": "Comunidad Global — NexusFlow",
+            "description": "Conéctate con miles de desarrolladores, diseñadores y creadores web."
           },
           "sections": [
             {
-              "id": "sec_mtp5swykdtsvp9eaw",
-              "name": "Community Flow",
+              "id": "sec_mtp6v02jh4b0ttics",
+              "name": "Community Content",
               "layout": {
                 "containerWidth": "full",
                 "paddingY": "0"
               },
               "blocks": [
                 {
-                  "id": "blk_mtp5swykuhpjey550",
+                  "id": "blk_mtp6v02jqcc0s92v7",
                   "type": "header",
                   "version": "1.0.0",
                   "props": {
-                    "brandName": "NextGen Cloud",
+                    "brandName": "NexusFlow Enterprise",
                     "sticky": true,
-                    "ctaLabel": "Get Started Free",
-                    "ctaHref": "/pricing",
+                    "ctaLabel": "Cotizar Proyecto",
+                    "ctaHref": "/contact",
                     "navItems": [
                       {
-                        "id": "l_nav_1",
+                        "id": "nav_1",
                         "label": "Inicio",
                         "href": "/"
                       },
                       {
-                        "id": "l_nav_2",
+                        "id": "nav_2",
                         "label": "Overview",
                         "href": "/overview"
                       },
                       {
-                        "id": "l_nav_3",
-                        "label": "Features",
-                        "href": "/#features"
-                      },
-                      {
-                        "id": "l_nav_4",
-                        "label": "Pricing",
+                        "id": "nav_3",
+                        "label": "Precios",
                         "href": "/pricing"
                       },
                       {
-                        "id": "l_nav_5",
+                        "id": "nav_4",
+                        "label": "Nosotros",
+                        "href": "/about"
+                      },
+                      {
+                        "id": "nav_5",
                         "label": "Docs",
                         "href": "/docs"
                       },
                       {
-                        "id": "l_nav_6",
+                        "id": "nav_6",
                         "label": "Contacto",
                         "href": "/contact"
                       }
@@ -1276,39 +1244,39 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp5swykpo8uixatm",
+                  "id": "blk_mtp6v02j1dwvsit20",
                   "type": "hero",
                   "version": "1.0.0",
                   "props": {
-                    "headline": "Únete a Nuestra Comunidad Global",
-                    "subheadline": "Aprende mejores prácticas, comparte tus plantillas y colabora con miles de profesionales en todo el mundo.",
-                    "primaryActionLabel": "Participar en la Comunidad",
+                    "headline": "Una Comunidad Global de Creadores y Desarrolladores",
+                    "subheadline": "Comparte plantillas, resuelve desafíos técnicos y colabora con ingenieros de todo el mundo.",
+                    "primaryActionLabel": "Unirse a Discord",
                     "primaryActionHref": "/contact",
-                    "secondaryActionLabel": "Explorar Documentación",
+                    "secondaryActionLabel": "Ver Documentación",
                     "secondaryActionHref": "/docs",
                     "imageSrc": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?auto=format&fit=crop&w=1200&q=80",
-                    "imageAlt": "Comunidad de tecnología"
+                    "imageAlt": "Comunidad reunida en evento de tecnología"
                   },
                   "components": []
                 },
                 {
-                  "id": "blk_mtp5swyk1ubmcxprf",
+                  "id": "blk_mtp6v02jh8elkypyg",
                   "type": "testimonials",
                   "version": "1.0.0",
                   "props": {
-                    "sectionTitle": "Experiencias de Nuestros Miembros",
-                    "sectionSubtitle": "Lo que opinan creadores que ya están utilizando NextGen Cloud."
+                    "sectionTitle": "Historias de la Comunidad",
+                    "sectionSubtitle": "Creadores que han llevado sus proyectos al siguiente nivel."
                   },
                   "components": []
                 },
                 {
-                  "id": "blk_mtp5swykx7ljai0f6",
+                  "id": "blk_mtp6v02jlojad1dy6",
                   "type": "footer",
                   "version": "1.0.0",
                   "props": {
-                    "brandName": "NextGen Cloud",
+                    "brandName": "NexusFlow Enterprise",
                     "tagline": "Liderando el futuro corporativo con soluciones sólidas, escalables y confiables.",
-                    "copyrightText": "© 2026 NextGen Cloud Inc. Todos los derechos reservados.",
+                    "copyrightText": "© 2026 NexusFlow Enterprise Inc. Todos los derechos reservados.",
                     "linkGroups": [
                       {
                         "id": "g1",
@@ -1377,59 +1345,59 @@
           ]
         },
         {
-          "id": "pag_mtp5swykoqyfxbrhp",
+          "id": "pag_mtp6v02jpy9hcfi77",
           "name": "Contacto",
           "route": "/contact",
           "seo": {
-            "title": "Contacto y Soporte — NextGen Cloud",
-            "description": "Estamos aquí para resolver tus dudas y ayudarte a crecer."
+            "title": "Contáctanos — NexusFlow Enterprise",
+            "description": "Ponte en contacto con nuestro equipo comercial y de soporte técnico."
           },
           "sections": [
             {
-              "id": "sec_mtp5swyk07l92bmss",
-              "name": "Contact Flow",
+              "id": "sec_mtp6v02jrtqu8s38j",
+              "name": "Contact Content",
               "layout": {
                 "containerWidth": "full",
                 "paddingY": "0"
               },
               "blocks": [
                 {
-                  "id": "blk_mtp5swykdfzvw2kru",
+                  "id": "blk_mtp6v02jl1q4bfcv2",
                   "type": "header",
                   "version": "1.0.0",
                   "props": {
-                    "brandName": "NextGen Cloud",
+                    "brandName": "NexusFlow Enterprise",
                     "sticky": true,
-                    "ctaLabel": "Get Started Free",
-                    "ctaHref": "/pricing",
+                    "ctaLabel": "Cotizar Proyecto",
+                    "ctaHref": "/contact",
                     "navItems": [
                       {
-                        "id": "l_nav_1",
+                        "id": "nav_1",
                         "label": "Inicio",
                         "href": "/"
                       },
                       {
-                        "id": "l_nav_2",
+                        "id": "nav_2",
                         "label": "Overview",
                         "href": "/overview"
                       },
                       {
-                        "id": "l_nav_3",
-                        "label": "Features",
-                        "href": "/#features"
-                      },
-                      {
-                        "id": "l_nav_4",
-                        "label": "Pricing",
+                        "id": "nav_3",
+                        "label": "Precios",
                         "href": "/pricing"
                       },
                       {
-                        "id": "l_nav_5",
+                        "id": "nav_4",
+                        "label": "Nosotros",
+                        "href": "/about"
+                      },
+                      {
+                        "id": "nav_5",
                         "label": "Docs",
                         "href": "/docs"
                       },
                       {
-                        "id": "l_nav_6",
+                        "id": "nav_6",
                         "label": "Contacto",
                         "href": "/contact"
                       }
@@ -1438,27 +1406,27 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp5swyk9zzhkcyve",
+                  "id": "blk_mtp6v02jnvptux4bx",
                   "type": "contact-form",
                   "version": "1.0.0",
                   "props": {
-                    "title": "Ponte en Contacto con Nosotros",
-                    "subtitle": "Escríbenos y un especialista de NextGen Cloud te responderá en menos de 2 horas.",
-                    "nameLabel": "Nombre Completo",
-                    "emailLabel": "Correo Electrónico",
-                    "messageLabel": "¿Cómo podemos ayudarte?",
-                    "submitButtonLabel": "Enviar Mensaje"
+                    "title": "Hablemos de tu Próximo Proyecto",
+                    "subtitle": "Completa el formulario y un especialista corporativo se pondrá en contacto contigo para una sesión personalizada.",
+                    "nameLabel": "Nombre y Apellidos",
+                    "emailLabel": "Correo Electrónico Corporativo",
+                    "messageLabel": "Detalles del Proyecto o Consulta",
+                    "submitButtonLabel": "Solicitar Asesoría"
                   },
                   "components": []
                 },
                 {
-                  "id": "blk_mtp5swyk8w24db3u6",
+                  "id": "blk_mtp6v02jpyhzwv0my",
                   "type": "footer",
                   "version": "1.0.0",
                   "props": {
-                    "brandName": "NextGen Cloud",
+                    "brandName": "NexusFlow Enterprise",
                     "tagline": "Liderando el futuro corporativo con soluciones sólidas, escalables y confiables.",
-                    "copyrightText": "© 2026 NextGen Cloud Inc. Todos los derechos reservados.",
+                    "copyrightText": "© 2026 NexusFlow Enterprise Inc. Todos los derechos reservados.",
                     "linkGroups": [
                       {
                         "id": "g1",
@@ -1527,59 +1495,59 @@
           ]
         },
         {
-          "id": "pag_mtp5swykneo2dbvon",
+          "id": "pag_mtp6v02j0azl1g8uo",
           "name": "Privacy Policy",
           "route": "/privacy",
           "seo": {
-            "title": "Política de Privacidad — NextGen Cloud",
-            "description": "Transparencia total y protección de datos para todos nuestros usuarios."
+            "title": "Política de Privacidad — NexusFlow Enterprise",
+            "description": "Compromiso de protección de datos, privacidad y cumplimiento legal."
           },
           "sections": [
             {
-              "id": "sec_mtp5swykrb6vm2y2m",
-              "name": "Privacy Flow",
+              "id": "sec_mtp6v02jmxkuiqmj1",
+              "name": "Privacy Content",
               "layout": {
                 "containerWidth": "full",
                 "paddingY": "0"
               },
               "blocks": [
                 {
-                  "id": "blk_mtp5swyk6tc287blc",
+                  "id": "blk_mtp6v02jpg6akv3kr",
                   "type": "header",
                   "version": "1.0.0",
                   "props": {
-                    "brandName": "NextGen Cloud",
+                    "brandName": "NexusFlow Enterprise",
                     "sticky": true,
-                    "ctaLabel": "Get Started Free",
-                    "ctaHref": "/pricing",
+                    "ctaLabel": "Cotizar Proyecto",
+                    "ctaHref": "/contact",
                     "navItems": [
                       {
-                        "id": "l_nav_1",
+                        "id": "nav_1",
                         "label": "Inicio",
                         "href": "/"
                       },
                       {
-                        "id": "l_nav_2",
+                        "id": "nav_2",
                         "label": "Overview",
                         "href": "/overview"
                       },
                       {
-                        "id": "l_nav_3",
-                        "label": "Features",
-                        "href": "/#features"
-                      },
-                      {
-                        "id": "l_nav_4",
-                        "label": "Pricing",
+                        "id": "nav_3",
+                        "label": "Precios",
                         "href": "/pricing"
                       },
                       {
-                        "id": "l_nav_5",
+                        "id": "nav_4",
+                        "label": "Nosotros",
+                        "href": "/about"
+                      },
+                      {
+                        "id": "nav_5",
                         "label": "Docs",
                         "href": "/docs"
                       },
                       {
-                        "id": "l_nav_6",
+                        "id": "nav_6",
                         "label": "Contacto",
                         "href": "/contact"
                       }
@@ -1588,13 +1556,13 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp5swyknfr1ql1bv",
+                  "id": "blk_mtp6v02jceyzej8sh",
                   "type": "banner",
                   "version": "1.0.0",
                   "props": {
-                    "badgeText": "LEGAL & PRIVACIDAD",
+                    "badgeText": "LEGAL",
                     "headline": "Política de Privacidad y Protección de Datos",
-                    "description": "Tu confianza y privacidad son el núcleo de nuestra infraestructura técnica.",
+                    "description": "Cumplimiento estricto de los estándares GDPR, CCPA y regulaciones internacionales.",
                     "actionLabel": "Términos de Servicio",
                     "actionHref": "/terms",
                     "variant": "dark"
@@ -1602,40 +1570,40 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp5swykec83v3elk",
+                  "id": "blk_mtp6v02jslok5vz67",
                   "type": "faq",
                   "version": "1.0.0",
                   "props": {
-                    "sectionTitle": "Preguntas Clave sobre tu Privacidad",
-                    "sectionSubtitle": "Cómo protegemos, tratamos y respetamos tus datos personales.",
+                    "sectionTitle": "Términos y Cláusulas de Privacidad",
+                    "sectionSubtitle": "Conoce con total transparencia cómo recopilamos, usamos y protegemos tu información.",
                     "items": [
                       {
-                        "id": "lp1",
-                        "question": "1. ¿Qué datos personales recopilamos?",
-                        "answer": "Únicamente recopilamos los datos estrictamente necesarios para prestar el servicio (como nombre, correo electrónico y parámetros técnicos de rendimiento). Nunca vendemos ni compartimos tus datos con terceros para fines publicitarios."
+                        "id": "p1",
+                        "question": "1. ¿Qué datos recopilamos?",
+                        "answer": "Recopilamos únicamente la información necesaria para proveer nuestros servicios, como tu nombre, correo electrónico y datos técnicos de rendimiento. Nunca vendemos tus datos personales."
                       },
                       {
-                        "id": "lp2",
-                        "question": "2. ¿Cómo se protegen los datos?",
-                        "answer": "Toda la comunicación está cifrada de extremo a extremo mediante TLS 1.3 y los datos almacenados utilizan cifrado AES-256 de nivel bancario."
+                        "id": "p2",
+                        "question": "2. ¿Cómo protegemos tu información?",
+                        "answer": "Toda la información se cifra tanto en tránsito (TLS 1.3) como en reposo (AES-256). Aplicamos auditorías de seguridad periódicas y controles de acceso estricto."
                       },
                       {
-                        "id": "lp3",
-                        "question": "3. Derechos de acceso, rectificación y olvido",
-                        "answer": "Conforme a la normativa internacional (GDPR/CCPA), puedes solicitar en cualquier momento la descarga o eliminación completa de tu información escribiendo a privacy@nextgencloud.com."
+                        "id": "p3",
+                        "question": "3. Derechos del titular de datos",
+                        "answer": "Puedes solicitar en cualquier momento la consulta, rectificación o eliminación total de tus datos personales contactándonos a través de privacy@nexusflow.com."
                       }
                     ]
                   },
                   "components": []
                 },
                 {
-                  "id": "blk_mtp5swykskzcdk5ug",
+                  "id": "blk_mtp6v02joi0oqqdhc",
                   "type": "footer",
                   "version": "1.0.0",
                   "props": {
-                    "brandName": "NextGen Cloud",
+                    "brandName": "NexusFlow Enterprise",
                     "tagline": "Liderando el futuro corporativo con soluciones sólidas, escalables y confiables.",
-                    "copyrightText": "© 2026 NextGen Cloud Inc. Todos los derechos reservados.",
+                    "copyrightText": "© 2026 NexusFlow Enterprise Inc. Todos los derechos reservados.",
                     "linkGroups": [
                       {
                         "id": "g1",
@@ -1704,59 +1672,59 @@
           ]
         },
         {
-          "id": "pag_mtp5swykxlny3wjzs",
+          "id": "pag_mtp6v02j723wygj91",
           "name": "Terms of Service",
           "route": "/terms",
           "seo": {
-            "title": "Términos de Servicio — NextGen Cloud",
-            "description": "Términos legales y condiciones de uso de la plataforma."
+            "title": "Términos de Servicio — NexusFlow Enterprise",
+            "description": "Condiciones de uso, licencias y responsabilidades de nuestra plataforma."
           },
           "sections": [
             {
-              "id": "sec_mtp5swykljck0rusm",
-              "name": "Terms Flow",
+              "id": "sec_mtp6v02j6g1vvddmw",
+              "name": "Terms Content",
               "layout": {
                 "containerWidth": "full",
                 "paddingY": "0"
               },
               "blocks": [
                 {
-                  "id": "blk_mtp5swyk73mferrrr",
+                  "id": "blk_mtp6v02j2u9as6bv7",
                   "type": "header",
                   "version": "1.0.0",
                   "props": {
-                    "brandName": "NextGen Cloud",
+                    "brandName": "NexusFlow Enterprise",
                     "sticky": true,
-                    "ctaLabel": "Get Started Free",
-                    "ctaHref": "/pricing",
+                    "ctaLabel": "Cotizar Proyecto",
+                    "ctaHref": "/contact",
                     "navItems": [
                       {
-                        "id": "l_nav_1",
+                        "id": "nav_1",
                         "label": "Inicio",
                         "href": "/"
                       },
                       {
-                        "id": "l_nav_2",
+                        "id": "nav_2",
                         "label": "Overview",
                         "href": "/overview"
                       },
                       {
-                        "id": "l_nav_3",
-                        "label": "Features",
-                        "href": "/#features"
-                      },
-                      {
-                        "id": "l_nav_4",
-                        "label": "Pricing",
+                        "id": "nav_3",
+                        "label": "Precios",
                         "href": "/pricing"
                       },
                       {
-                        "id": "l_nav_5",
+                        "id": "nav_4",
+                        "label": "Nosotros",
+                        "href": "/about"
+                      },
+                      {
+                        "id": "nav_5",
                         "label": "Docs",
                         "href": "/docs"
                       },
                       {
-                        "id": "l_nav_6",
+                        "id": "nav_6",
                         "label": "Contacto",
                         "href": "/contact"
                       }
@@ -1765,13 +1733,13 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp5swykv2qffuqp7",
+                  "id": "blk_mtp6v02jj45mjd82f",
                   "type": "banner",
                   "version": "1.0.0",
                   "props": {
-                    "badgeText": "CONDICIONES LEGALES",
-                    "headline": "Términos y Condiciones del Servicio",
-                    "description": "Acuerdo vinculante para el uso de la plataforma NextGen Cloud.",
+                    "badgeText": "CONDICIONES",
+                    "headline": "Términos y Condiciones de Servicio",
+                    "description": "Acuerdo legal que rige el uso de nuestra plataforma y servicios asociados.",
                     "actionLabel": "Ver Privacidad",
                     "actionHref": "/privacy",
                     "variant": "dark"
@@ -1779,40 +1747,40 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp5swyke7pgm3cx0",
+                  "id": "blk_mtp6v02j1727fkab6",
                   "type": "faq",
                   "version": "1.0.0",
                   "props": {
-                    "sectionTitle": "Condiciones Generales del Contrato",
-                    "sectionSubtitle": "Derechos, garantías y términos de licenciamiento.",
+                    "sectionTitle": "Cláusulas Contractuales del Servicio",
+                    "sectionSubtitle": "Derechos, responsabilidades y alcance del licenciamiento.",
                     "items": [
                       {
-                        "id": "lt1",
-                        "question": "1. Licencia de Uso y Propiedad de Contenido",
-                        "answer": "El usuario conserva la propiedad intelectual absoluta de todos los diseños, textos y código generado. NextGen Cloud otorga una licencia operativa no restrictiva para desplegar y alojar tu sitio web."
+                        "id": "t1",
+                        "question": "1. Aceptación de los Términos",
+                        "answer": "Al acceder o utilizar NexusFlow, aceptas quedar vinculado por estos Términos de Servicio y por todas las leyes y normativas aplicables."
                       },
                       {
-                        "id": "lt2",
-                        "question": "2. Garantía de Servicio y Disponibilidad",
-                        "answer": "Nos comprometemos a mantener un uptime superior al 99.9% para todos los planes en producción."
+                        "id": "t2",
+                        "question": "2. Licencia de Uso y Propiedad Intelectual",
+                        "answer": "Conservas la plena propiedad de todo el contenido, diseño y código generado con la plataforma. NexusFlow te otorga una licencia global, no exclusiva y transferible para operar tus sitios web."
                       },
                       {
-                        "id": "lt3",
-                        "question": "3. Cancelación y Reembolsos",
-                        "answer": "Puedes cancelar tu suscripción en cualquier momento sin penalizaciones. Ofrecemos garantía de satisfacción de 14 días con reembolso del 100%."
+                        "id": "t3",
+                        "question": "3. Nivel de Servicio y Garantías",
+                        "answer": "Ofrecemos un SLA del 99.99% para planes empresariales. Ante cualquier interrupción no programada, se aplican los créditos de servicio estipulados en tu contrato."
                       }
                     ]
                   },
                   "components": []
                 },
                 {
-                  "id": "blk_mtp5swykb1k7mmefs",
+                  "id": "blk_mtp6v02j8k1y1k82v",
                   "type": "footer",
                   "version": "1.0.0",
                   "props": {
-                    "brandName": "NextGen Cloud",
+                    "brandName": "NexusFlow Enterprise",
                     "tagline": "Liderando el futuro corporativo con soluciones sólidas, escalables y confiables.",
-                    "copyrightText": "© 2026 NextGen Cloud Inc. Todos los derechos reservados.",
+                    "copyrightText": "© 2026 NexusFlow Enterprise Inc. Todos los derechos reservados.",
                     "linkGroups": [
                       {
                         "id": "g1",
@@ -1881,18 +1849,18 @@
           ]
         },
         {
-          "id": "pag_mtp5swykcfiuc24ca",
+          "id": "pag_mtp6v02jrrvn7r4hh",
           "name": "Embudo Lead Magnet",
           "route": "/embudo",
           "seo": {
-            "title": "Recurso Gratuito Exclusivo — Guía de Crecimiento",
-            "description": "Accede a nuestra guía práctica y plantillas gratuitas para acelerar tus proyectos.",
+            "title": "Recurso Corporativo Gratuito — NexusFlow Blueprint",
+            "description": "Accede a la guía práctica y metodología exclusiva para escalar operaciones.",
             "noIndex": true
           },
           "settings": {},
           "sections": [
             {
-              "id": "sec_mtp5swykj3s58k3iz",
+              "id": "sec_mtp6v02jaf0jmwpzi",
               "name": "Funnel Section",
               "layout": {
                 "containerWidth": "full",
@@ -1900,42 +1868,42 @@
               },
               "blocks": [
                 {
-                  "id": "blk_mtp5swykb0wgriprm",
+                  "id": "blk_mtp6v02jppesvp56v",
                   "type": "header",
                   "version": "1.0.0",
                   "props": {
-                    "brandName": "NextGen Cloud",
+                    "brandName": "NexusFlow Enterprise",
                     "sticky": true,
-                    "ctaLabel": "Get Started Free",
-                    "ctaHref": "/pricing",
+                    "ctaLabel": "Cotizar Proyecto",
+                    "ctaHref": "/contact",
                     "navItems": [
                       {
-                        "id": "l_nav_1",
+                        "id": "nav_1",
                         "label": "Inicio",
                         "href": "/"
                       },
                       {
-                        "id": "l_nav_2",
+                        "id": "nav_2",
                         "label": "Overview",
                         "href": "/overview"
                       },
                       {
-                        "id": "l_nav_3",
-                        "label": "Features",
-                        "href": "/#features"
-                      },
-                      {
-                        "id": "l_nav_4",
-                        "label": "Pricing",
+                        "id": "nav_3",
+                        "label": "Precios",
                         "href": "/pricing"
                       },
                       {
-                        "id": "l_nav_5",
+                        "id": "nav_4",
+                        "label": "Nosotros",
+                        "href": "/about"
+                      },
+                      {
+                        "id": "nav_5",
                         "label": "Docs",
                         "href": "/docs"
                       },
                       {
-                        "id": "l_nav_6",
+                        "id": "nav_6",
                         "label": "Contacto",
                         "href": "/contact"
                       }
@@ -1944,23 +1912,23 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp5swykpo9govs44",
+                  "id": "blk_mtp6v02jrg007jot6",
                   "type": "funnel",
                   "version": "1.0.0",
                   "props": {
-                    "badgeText": "🎁 RECURSO GRATUITO EXCLUSIVO",
-                    "headline": "Descarga Nuestra Guía Práctica de Crecimiento Acelerado",
-                    "subheadline": "Completa tus datos para recibir acceso inmediato al recurso descargable y plantillas listas para usar.",
+                    "badgeText": "🎁 GUÍA EMPRESARIAL EXCLUSIVA",
+                    "headline": "Blueprint de Arquitectura y Escalabilidad para Equipos de Alto Rendimiento",
+                    "subheadline": "Ingresa tus datos corporativos para descargar el framework completo y plantillas de planeación.",
                     "bulletPoints": [
-                      "Estrategias probadas de alta conversión paso a paso",
-                      "Plantillas y listas de verificación 100% editables",
-                      "Acceso directo y gratuito sin cargos ocultos"
+                      "Metodología probada para infraestructuras modulares",
+                      "Casos prácticos con métricas reales de rendimiento",
+                      "Acceso inmediato y seguro sin coste alguno"
                     ],
-                    "coverImageSrc": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1000&q=80",
-                    "coverImageAlt": "Mockup del recurso descargable gratuito",
-                    "nameLabel": "Tu Nombre:",
-                    "emailLabel": "Tu Mejor Correo:",
-                    "submitButtonLabel": "¡Obtener Mi Freebie Gratis! 📥",
+                    "coverImageSrc": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1000&q=80",
+                    "coverImageAlt": "Blueprint de escalabilidad corporativa",
+                    "nameLabel": "Nombre del Responsable:",
+                    "emailLabel": "Correo Corporativo:",
+                    "submitButtonLabel": "¡Descargar Blueprint Gratis! 📥",
                     "thankYouPageRoute": "/gracias",
                     "freebieExternalUrl": "https://drive.google.com/",
                     "recipientEmail": "",
@@ -1972,13 +1940,13 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp5swykf190sd6bl",
+                  "id": "blk_mtp6v02j51g839078",
                   "type": "footer",
                   "version": "1.0.0",
                   "props": {
-                    "brandName": "NextGen Cloud",
+                    "brandName": "NexusFlow Enterprise",
                     "tagline": "Liderando el futuro corporativo con soluciones sólidas, escalables y confiables.",
-                    "copyrightText": "© 2026 NextGen Cloud Inc. Todos los derechos reservados.",
+                    "copyrightText": "© 2026 NexusFlow Enterprise Inc. Todos los derechos reservados.",
                     "linkGroups": [
                       {
                         "id": "g1",
@@ -2047,18 +2015,18 @@
           ]
         },
         {
-          "id": "pag_mtp5swyk1v63ghf5a",
+          "id": "pag_mtp6v02jzrb932nu3",
           "name": "Página de Gracias",
           "route": "/gracias",
           "seo": {
-            "title": "¡Gracias por tu registro! — Tu Recurso Está Listo",
-            "description": "Confirmación y descarga directa de tu material gratuito.",
+            "title": "¡Solicitud Confirmada! — Acceso a tu Blueprint",
+            "description": "Confirmación y descarga directa del recurso solicitado.",
             "noIndex": true
           },
           "settings": {},
           "sections": [
             {
-              "id": "sec_mtp5swykj69nftil3",
+              "id": "sec_mtp6v02jk5z89jj29",
               "name": "Thank You Section",
               "layout": {
                 "containerWidth": "full",
@@ -2066,42 +2034,42 @@
               },
               "blocks": [
                 {
-                  "id": "blk_mtp5swyk3vy7bna6k",
+                  "id": "blk_mtp6v02jiogqnxgmc",
                   "type": "header",
                   "version": "1.0.0",
                   "props": {
-                    "brandName": "NextGen Cloud",
+                    "brandName": "NexusFlow Enterprise",
                     "sticky": true,
-                    "ctaLabel": "Get Started Free",
-                    "ctaHref": "/pricing",
+                    "ctaLabel": "Cotizar Proyecto",
+                    "ctaHref": "/contact",
                     "navItems": [
                       {
-                        "id": "l_nav_1",
+                        "id": "nav_1",
                         "label": "Inicio",
                         "href": "/"
                       },
                       {
-                        "id": "l_nav_2",
+                        "id": "nav_2",
                         "label": "Overview",
                         "href": "/overview"
                       },
                       {
-                        "id": "l_nav_3",
-                        "label": "Features",
-                        "href": "/#features"
-                      },
-                      {
-                        "id": "l_nav_4",
-                        "label": "Pricing",
+                        "id": "nav_3",
+                        "label": "Precios",
                         "href": "/pricing"
                       },
                       {
-                        "id": "l_nav_5",
+                        "id": "nav_4",
+                        "label": "Nosotros",
+                        "href": "/about"
+                      },
+                      {
+                        "id": "nav_5",
                         "label": "Docs",
                         "href": "/docs"
                       },
                       {
-                        "id": "l_nav_6",
+                        "id": "nav_6",
                         "label": "Contacto",
                         "href": "/contact"
                       }
@@ -2110,15 +2078,15 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp5swykc48irlpf9",
+                  "id": "blk_mtp6v02jjwjxdtwkq",
                   "type": "thank-you",
                   "version": "1.0.0",
                   "props": {
                     "badgeText": "🎉 ¡SOLICITUD EXITOSA!",
-                    "headline": "¡Felicidades! Tu recurso está listo para descargar",
-                    "subheadline": "Hemos confirmado tu registro. Haz clic en el botón inferior para acceder de inmediato a tu material gratuito.",
+                    "headline": "¡Felicidades! Tu blueprint corporativo está listo",
+                    "subheadline": "Hemos verificado tu solicitud. Haz clic en el botón inferior para abrir tu recurso inmediatamente.",
                     "freebieExternalUrl": "https://drive.google.com/",
-                    "downloadButtonLabel": "Abrir / Descargar Freebie Ahora 🚀",
+                    "downloadButtonLabel": "Abrir / Descargar Blueprint Ahora 🚀",
                     "homeButtonLabel": "Volver a la Página Principal",
                     "homePageRoute": "/",
                     "autoRedirectSeconds": 0,
@@ -2128,13 +2096,13 @@
                   "components": []
                 },
                 {
-                  "id": "blk_mtp5swykyzfme5qs7",
+                  "id": "blk_mtp6v02jjutco55lw",
                   "type": "footer",
                   "version": "1.0.0",
                   "props": {
-                    "brandName": "NextGen Cloud",
+                    "brandName": "NexusFlow Enterprise",
                     "tagline": "Liderando el futuro corporativo con soluciones sólidas, escalables y confiables.",
-                    "copyrightText": "© 2026 NextGen Cloud Inc. Todos los derechos reservados.",
+                    "copyrightText": "© 2026 NexusFlow Enterprise Inc. Todos los derechos reservados.",
                     "linkGroups": [
                       {
                         "id": "g1",
@@ -2311,8 +2279,8 @@
   ],
   "assets": [],
   "metadata": {
-    "createdAt": "2026-09-06T02:13:38.002Z",
-    "updatedAt": "2026-09-06T02:13:38.002Z",
+    "createdAt": "2026-09-06T02:27:17.298Z",
+    "updatedAt": "2026-09-06T02:27:17.298Z",
     "description": "Exported website source bundle"
   }
 }
